@@ -1,3 +1,5 @@
+![Coral](img/coral_logo_itsf.png)
+
 # Swiss Tablesoccer Federation (STF) goes Coral
 
 Liebe Tischfussball-Community,
@@ -14,7 +16,13 @@ Die STF arbeitet daran den Informationsfluss und -gehalt zur Coral-Einführung z
 
 ## Inhaltsverzeichnis
 
-- *TODO*
+- [Inhaltsverzeichnis](https://coral.swisstablesoccer.ch/#inhaltsverzeichnis)
+- [Coral Accounts](https://coral.swisstablesoccer.ch/#coral-accounts)
+- [Anmelden für Turniere](https://coral.swisstablesoccer.ch/#anmelden-f%C3%BCr-turniere)
+- [Einem Club beitreten](https://coral.swisstablesoccer.ch/#einem-club-beitreten)
+- [Während eines Turniers](https://coral.swisstablesoccer.ch/#w%C3%A4hrend-eines-turniers)
+- [Ein Turnier aufschalten](https://coral.swisstablesoccer.ch/#ein-turnier-aufschalten)
+- [Häufig gestellte Fragen (FAQ)](https://coral.swisstablesoccer.ch/#faq)
 
 ## Coral Accounts
 
@@ -29,12 +37,12 @@ Falls Du mit Sicherheit zum ersten Mal an einem ITSF-Turnier teilnimmst, musst D
 
 ## Anmelden für Turniere
 
-Um Dich für Turniere anmelden zu können, musst Dein Status erst auf *Active* sein. Falls Dein Status auf *inactive* ist (siehe nachfolgende Bildschirmfotos), musst Du diesen erst aktivieren. Klicke hierfür auf *renew*, falls Du bereits Mitglied eines Clubs bist oder trete einfach Deinem Verein bei indem Du auf *Join Club* klickst (Siehe hierzu [Einem Club beitreten](#)). Wähle in beiden Fällen die passende [Mitgliedschaft](#) aus.
+Um Dich für Turniere anmelden zu können, musst Dein Status erst auf *Active* sein. Falls Dein Status auf *inactive* ist (siehe nachfolgende Bildschirmfotos), musst Du diesen erst aktivieren. Klicke hierfür auf *renew*, falls Du bereits Mitglied eines Clubs bist oder trete einfach Deinem Verein bei indem Du auf *Join Club* klickst (Siehe hierzu [Einem Club beitreten](https://coral.swisstablesoccer.ch/#einem-club-beitreten)). Wähle in beiden Fällen die passende [Mitgliedschaft](#) aus.
 
 - *TODO Mitgliedschaft/Lizenzen*
 
 ![Active](img/active.jpg)
-![Active](img/inactive.jpg)
+![Inactive](img/inactive.jpg)
 
 ## ⁠Einem Club beitreten
 
