@@ -30,7 +30,8 @@ Die STF arbeitet daran den Informationsfluss und -gehalt zur Coral-Einführung z
     * [\#4 die Tabelle zeigt mir das Buchholz nicht an](https://register.swisstablesoccer.ch/#4-die-tabelle-zeigt-mir-das-buchholz-nicht-an)
     * [\#5 Ich habe mich angemeldet aber mein Status ist noch auf *pending*. Warum?](https://register.swisstablesoccer.ch/#5-ich-habe-mich-angemeldet-aber-mein-status-ist-noch-auf-pending-warum)
     * [\#6 Wie sind die Gebühren, welche mir angezeigt werden zu verstehen?](https://register.swisstablesoccer.ch/#6-wie-sind-die-geb%C3%BChren-welche-mir-angezeigt-werden-zu-verstehen)
-    * [\#7 WLAN an Turniere](https://register.swisstablesoccer.ch/#7-wlan-an-turniere)
+    * [\#7 Wo finde ich neu die Turnierausschreibung?](https://register.swisstablesoccer.ch/#7-wo-finde-ich-neu-die-turnierausschreibung)
+    * [\#8 WLAN an Turniere](https://register.swisstablesoccer.ch/#8-wlan-an-turniere)
 
 ## Coral Accounts
 
@@ -126,12 +127,16 @@ Die Gebühren kannst Du vorerst noch ignorieren, dass ist erst testweise eingest
 - MX, RD -> CHF 10
 - CHF 15 für Tageslizenz, falls keine Jahreslizenz 
 
-Bitte folge zudem den Anweisungen zur Vorauszahlung gemäss der Ausschreibung. Die Ausschreibung findest Du in Coral auf der Startseite jedes einzelnen Turniers. (siehe Screenshot)
+Bitte folge zudem den Anweisungen zur Vorauszahlung gemäss der [Ausschreibung](https://register.swisstablesoccer.ch/#7-wo-finde-ich-neu-die-turnierausschreibung). Diese ist neu auch in Coral zu finden.
+
+### \#7 Wo finde ich neu die Turnierausschreibung?
+
+Die Ausschreibung findest Du nun auch in Coral. Auf der Startseite jedes einzelnen Turniers gibt es einen Download-Link, wo Du Dir das altbekannte PDF herunterladen und anschauen kannst.
 
 ![Activated](img/faq-6-ausschreibung.jpg){: width="320px" }
 
 
-### \#7 WLAN an Turniere
+### \#8 WLAN an Turniere
 
 - *TODO*
 
