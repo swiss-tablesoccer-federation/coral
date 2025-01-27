@@ -28,7 +28,9 @@ Die STF arbeitet daran den Informationsfluss und -gehalt zur Coral-Einführung z
     * [\#3.1 Wie kann ich Coral als Web-App installieren?](https://register.swisstablesoccer.ch/#31-wie-kann-ich-coral-als-web-app-installieren)
     * [\#3.2 Push-Benachrichtigungen funktionieren nicht auf meinem Handy](https://register.swisstablesoccer.ch/#32-push-benachrichtigungen-funktionieren-nicht-auf-meinem-handy)
     * [\#4 die Tabelle zeigt mir das Buchholz nicht an](https://register.swisstablesoccer.ch/#4-die-tabelle-zeigt-mir-das-buchholz-nicht-an)
-    * [\#5 Wlan an Turniere]()
+    * [\#5 Ich habe mich angemeldet aber mein Status ist noch auf *pending*. Warum?](https://register.swisstablesoccer.ch/#5-ich-habe-mich-angemeldet-aber-mein-status-ist-noch-auf-pending-warum)
+    * [\#6 Wie sind die Gebühren, welche mir angezeigt werden zu verstehen?](https://register.swisstablesoccer.ch/#6-wie-sind-die-geb%C3%BChren-welche-mir-angezeigt-werden-zu-verstehen)
+    * [\#7 WLAN an Turniere](https://register.swisstablesoccer.ch/#7-wlan-an-turniere)
 
 ## Coral Accounts
 
@@ -57,7 +59,7 @@ Um einem Club beitreten zu können kannst Du unter Deinem *Profile > Join Club* 
 - __National__ falls Du eine Jahreslizenz bei der STF erworben hast und planst, keine ITSF-Turniere zu spielen
 - __Club__ falls Du keine Jahreslizenz bei der STF erworben hast und in allen anderen Fällen
 
-![Join Club](img/join-club.jpg)
+![Join Club](img/join-club.jpg){: width="320px" }
 
 ## ⁠Während eines Turniers
 - Resultat Eingabe
@@ -85,9 +87,7 @@ Dies kann passieren, wenn man die automatische Zeitsynchronisation in Windows de
 ### \#3.1 Wie kann ich Coral als Web-App installieren?
 
 ![Profile](img/faq-3-profile.png){: width="320px" }
-
 ![Profile](img/faq-3-name.png){: width="320px" }
-
 ![Profile](img/faq-3-home.png){: width="320px" }
 
 
@@ -98,9 +98,7 @@ Um Push-Benachrichtigungen aktivieren zu können, muss Coral (app.tablesoccer.or
 Push-Benachrichtigungen müssen dann zweistufig aktiviert werden. Erst unter *Profile > Settings > Notification*. 
 
 ![Profile > Settings > Notification](img/faq-3-notification.png){: width="320px" }
-
 ![Settings](img/faq-3-notification-settings.png){: width="320px" }
-
 ![Activated](img/faq-3-notification-activated.png){: width="320px" }
 
 Dann unterm Turnier selbst. Die Einstellung im Profil ist notwendig, damit Android oder iPhone die Push-Benachrichtigungen auf System-Level aktivieren.
@@ -111,7 +109,6 @@ Einmal aktiviert, werden die Einstellungen im Profil als Standard für zukünfti
 - Im Querformat wird die Tabelle vollständig angezeigt. B steht für Buchholz, SB für Small Buchholz resp. Feinbuchholz
 
 ![Hochformat](img/faq-4_hoch.png){: height="448px"}
-
 ![Querformat](img/faq-4_quer.jpg){: height="448px"}
 
 ### \#5 Ich habe mich angemeldet aber mein Status ist noch auf *pending*. Warum?
@@ -133,7 +130,7 @@ Bitte folge zudem den Anweisungen zur Vorauszahlung gemäss der Ausschreibung. D
 ![Activated](img/faq-6-ausschreibung.jpg){: width="320px" }
 
 
-### \#7 Wlan an Turniere
+### \#7 WLAN an Turniere
 
 - *TODO*
 
