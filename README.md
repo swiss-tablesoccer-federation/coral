@@ -109,8 +109,8 @@ Einmal aktiviert, werden die Einstellungen im Profil als Standard für zukünfti
 - Auf Mobilegeräte wird Hochformat die Tabelle verkürzt dargestellt: Teamname, Platzierung, Punkte
 - Im Querformat wird die Tabelle vollständig angezeigt. B steht für Buchholz, SB für Small Buchholz resp. Feinbuchholz
 
-![Hochformat](img/faq-4_hoch.png){: height="420px"}
-![Querformat](img/faq-4_quer.jpg){: height="420px"}
+![Hochformat](img/faq-4_hoch.png){: height="400px"}
+![Querformat](img/faq-4_quer.jpg){: height="400px"}
 
 ### \#5 Ich habe mich angemeldet aber mein Status ist noch auf *pending*. Warum?
 
