@@ -81,14 +81,15 @@ Falls Dein Verein ein Regio-Turnier durchführen möchte, muss dieses ab Januar 
 Falls bei einem Benutzer auf dem PC nach dem Login in Coral nur eine weisse Seite angezeigt werden sollte, dann könnte dies damit zu tun haben, das seine Zeiteinstellung nicht in Ordnung ist. Sprich seine Zeit auf dem PC ist nicht synchronisiert (z.B. 3 Minuten hinter der effektiven Zeit).
 Dies kann passieren, wenn man die automatische Zeitsynchronisation in Windows deaktiviert hat. Um das zu beheben, geht in die Zeiteinstellungen von Windows und aktiviert das automatische setzen der Zeit sowie der zeitzone:
 
-![Zeit Einstellung](img/faq-2.jpg)
+![Zeit Einstellung](img/faq-2.jpg){: width="960px" } 
 
 
 ### \#3.1 Wie kann ich Coral als Web-App installieren?
 
-![Profile](img/faq-3-profile.png){: width="320px" }
-![Profile](img/faq-3-name.png){: width="320px" }
-![Profile](img/faq-3-home.png){: width="320px" }
+![Profile](img/faq-3-profile.png){: width="240px" }
+![Profile](img/faq-3-add.png){: width="240px" }
+![Profile](img/faq-3-name.png){: width="240px" }
+![Profile](img/faq-3-home.png){: width="240px" }
 
 
 
@@ -108,8 +109,8 @@ Einmal aktiviert, werden die Einstellungen im Profil als Standard für zukünfti
 - Auf Mobilegeräte wird Hochformat die Tabelle verkürzt dargestellt: Teamname, Platzierung, Punkte
 - Im Querformat wird die Tabelle vollständig angezeigt. B steht für Buchholz, SB für Small Buchholz resp. Feinbuchholz
 
-![Hochformat](img/faq-4_hoch.png){: height="448px"}
-![Querformat](img/faq-4_quer.jpg){: height="448px"}
+![Hochformat](img/faq-4_hoch.png){: height="420px"}
+![Querformat](img/faq-4_quer.jpg){: height="420px"}
 
 ### \#5 Ich habe mich angemeldet aber mein Status ist noch auf *pending*. Warum?
 
