@@ -16,13 +16,13 @@ Die STF arbeitet daran den Informationsfluss und -gehalt zur Coral-Einführung z
 
 ## Inhaltsverzeichnis
 
-- [Inhaltsverzeichnis](https://coral.swisstablesoccer.ch/#inhaltsverzeichnis)
-- [Coral Accounts](https://coral.swisstablesoccer.ch/#coral-accounts)
-- [Anmelden für Turniere](https://coral.swisstablesoccer.ch/#anmelden-f%C3%BCr-turniere)
-- [Einem Club beitreten](https://coral.swisstablesoccer.ch/#einem-club-beitreten)
-- [Während eines Turniers](https://coral.swisstablesoccer.ch/#w%C3%A4hrend-eines-turniers)
-- [Ein Turnier aufschalten](https://coral.swisstablesoccer.ch/#ein-turnier-aufschalten)
-- [Häufig gestellte Fragen (FAQ)](https://coral.swisstablesoccer.ch/#faq)
+- [Inhaltsverzeichnis](https://register.swisstablesoccer.ch/#inhaltsverzeichnis)
+- [Coral Accounts](https://register.swisstablesoccer.ch/#coral-accounts)
+- [Anmelden für Turniere](https://register.swisstablesoccer.ch/#anmelden-f%C3%BCr-turniere)
+- [Einem Club beitreten](https://register.swisstablesoccer.ch/#einem-club-beitreten)
+- [Während eines Turniers](https://register.swisstablesoccer.ch/#w%C3%A4hrend-eines-turniers)
+- [Ein Turnier aufschalten](https://register.swisstablesoccer.ch/#ein-turnier-aufschalten)
+- [Häufig gestellte Fragen (FAQ)](https://register.swisstablesoccer.ch/#faq)
     * [\#1 Ich kann mich nicht für Competitions registrieren. Die einzelnen Disziplinen sind ausgegraut](https://register.swisstablesoccer.ch/#1-ich-kann-mich-nicht-f%C3%BCr-competitions-registrieren-die-einzelnen-disziplinen-sind-ausgegraut)
     * [\#2 Coral zeigt nach dem Login auf dem PC nur eine weisse Oberfläche an](https://register.swisstablesoccer.ch/#2-coral-zeigt-nach-dem-login-auf-dem-pc-nur-eine-weisse-oberfl%C3%A4che-an)
     * [\#3.1 Wie kann ich Coral als Web-App installieren?](https://register.swisstablesoccer.ch/#31-wie-kann-ich-coral-als-web-app-installieren)
@@ -45,7 +45,7 @@ Falls Du mit Sicherheit zum ersten Mal an einem ITSF-Turnier teilnimmst, musst D
 
 ## Anmelden für Turniere
 
-Um Dich für Turniere anmelden zu können, musst Dein Status erst auf *Active* sein. Falls Dein Status auf *inactive* ist (siehe nachfolgende Bildschirmfotos), musst Du diesen erst aktivieren. Klicke hierfür auf *renew*, falls Du bereits Mitglied eines Clubs bist oder trete einfach Deinem Verein bei indem Du auf *Join Club* klickst (Siehe hierzu [Einem Club beitreten](https://coral.swisstablesoccer.ch/#einem-club-beitreten)). Wähle in beiden Fällen die passende [Mitgliedschaft](#) aus.
+Um Dich für Turniere anmelden zu können, musst Dein Status erst auf *Active* sein. Falls Dein Status auf *inactive* ist (siehe nachfolgende Bildschirmfotos), musst Du diesen erst aktivieren. Klicke hierfür auf *renew*, falls Du bereits Mitglied eines Clubs bist oder trete einfach Deinem Verein bei indem Du auf *Join Club* klickst (Siehe hierzu [Einem Club beitreten](https://register.swisstablesoccer.ch/#einem-club-beitreten)). Wähle in beiden Fällen die passende [Mitgliedschaft](#) aus.
 
 - *TODO Mitgliedschaft/Lizenzen*
 
