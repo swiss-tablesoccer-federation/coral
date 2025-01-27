@@ -23,6 +23,12 @@ Die STF arbeitet daran den Informationsfluss und -gehalt zur Coral-Einführung z
 - [Während eines Turniers](https://coral.swisstablesoccer.ch/#w%C3%A4hrend-eines-turniers)
 - [Ein Turnier aufschalten](https://coral.swisstablesoccer.ch/#ein-turnier-aufschalten)
 - [Häufig gestellte Fragen (FAQ)](https://coral.swisstablesoccer.ch/#faq)
+    * [\#1 Ich kann mich nicht für Competitions registrieren. Die einzelnen Disziplinen sind ausgegraut](https://register.swisstablesoccer.ch/#1-ich-kann-mich-nicht-f%C3%BCr-competitions-registrieren-die-einzelnen-disziplinen-sind-ausgegraut)
+    * [\#2 Coral zeigt nach dem Login auf dem PC nur eine weisse Oberfläche an](https://register.swisstablesoccer.ch/#2-coral-zeigt-nach-dem-login-auf-dem-pc-nur-eine-weisse-oberfl%C3%A4che-an)
+    * [\#3.1 Wie kann ich Coral als Web-App installieren?](https://register.swisstablesoccer.ch/#31-wie-kann-ich-coral-als-web-app-installieren)
+    * [\#3.2 Push-Benachrichtigungen funktionieren nicht auf meinem Handy](https://register.swisstablesoccer.ch/#32-push-benachrichtigungen-funktionieren-nicht-auf-meinem-handy)
+    * [\#4 die Tabelle zeigt mir das Buchholz nicht an](https://register.swisstablesoccer.ch/#4-die-tabelle-zeigt-mir-das-buchholz-nicht-an)
+    * [\#5 Wlan an Turniere]()
 
 ## Coral Accounts
 
@@ -41,8 +47,8 @@ Um Dich für Turniere anmelden zu können, musst Dein Status erst auf *Active* s
 
 - *TODO Mitgliedschaft/Lizenzen*
 
-![Active](img/active.jpg)
-![Inactive](img/inactive.jpg)
+![Active](img/active.jpg){: width="320px" }
+![Inactive](img/inactive.jpg){: width="320px" }
 
 ## ⁠Einem Club beitreten
 
@@ -78,13 +84,12 @@ Dies kann passieren, wenn man die automatische Zeitsynchronisation in Windows de
 
 ### \#3.1 Wie kann ich Coral als Web-App installieren?
 
-![Profile](img/faq-3-profile.png)
+![Profile](img/faq-3-profile.png){: width="320px" }
 
-![Profile](img/faq-3-add.png)
+![Profile](img/faq-3-name.png){: width="320px" }
 
-![Profile](img/faq-3-name.png)
+![Profile](img/faq-3-home.png){: width="320px" }
 
-![Profile](img/faq-3-home.png)
 
 
 ### \#3.2 Push-Benachrichtigungen funktionieren nicht auf meinem Handy
@@ -92,11 +97,11 @@ Um Push-Benachrichtigungen aktivieren zu können, muss Coral (app.tablesoccer.or
 
 Push-Benachrichtigungen müssen dann zweistufig aktiviert werden. Erst unter *Profile > Settings > Notification*. 
 
-![Profile > Settings > Notification](img/faq-3-notification.png)
+![Profile > Settings > Notification](img/faq-3-notification.png){: width="320px" }
 
-![Settings](img/faq-3-notification-settings.png)
+![Settings](img/faq-3-notification-settings.png){: width="320px" }
 
-![Activated](img/faq-3-notification-activated.png)
+![Activated](img/faq-3-notification-activated.png){: width="320px" }
 
 Dann unterm Turnier selbst. Die Einstellung im Profil ist notwendig, damit Android oder iPhone die Push-Benachrichtigungen auf System-Level aktivieren.
 Einmal aktiviert, werden die Einstellungen im Profil als Standard für zukünftige Turniere genommen. Es muss also nicht jedes Mal neu aktiviert werden.
@@ -105,11 +110,30 @@ Einmal aktiviert, werden die Einstellungen im Profil als Standard für zukünfti
 - Auf Mobilegeräte wird Hochformat die Tabelle verkürzt dargestellt: Teamname, Platzierung, Punkte
 - Im Querformat wird die Tabelle vollständig angezeigt. B steht für Buchholz, SB für Small Buchholz resp. Feinbuchholz
 
-![Hochformat](img/faq-4_hoch.png)
+![Hochformat](img/faq-4_hoch.png){: height="448px"}
 
-![Querformat](img/faq-4_quer.jpg)
+![Querformat](img/faq-4_quer.jpg){: height="448px"}
 
-#⁠## \#5 Wlan an Turniere
+### \#5 Ich habe mich angemeldet aber mein Status ist noch auf *pending*. Warum?
+
+*Pending* ist korrekt, wir werden dann am Tag des Turniers alle auf *Confirmed* setzen, sobald wir die Anwesenheitskontrolle gemacht haben. So können wir einfacher vor Ort noch Anpassungen vornehmen, falls Spielende nicht erscheinen oder kurzfristig absagen. 
+
+### \#6 Wie sind die Gebühren, welche mir angezeigt werden zu verstehen?
+
+Die Gebühren kannst Du vorerst noch ignorieren, dass ist erst testweise eingestellt. Es ist gut möglich, dass diese aktuell noch von der Realität abweichen. Falls Du vorauszahlen möchtest, kannst Du Dich gemäss üblichen Gebühren wie folgt orientieren:
+
+- Stärkeklasse gemäss [STF-Homepage](https://swisstablesoccer.ch/media/attachments/2024/01/16/starkeklassen-2024.pdf) ermitteln. 
+    * *__Achtung!__ Die Stärkeklasse ist in Coral noch nicht bei allen Spielenden korrekt eingestellt und ist somit nicht verbindlich*
+- OD, OS, WD, WS -> CHF 20 (CHF 10 falls Rookie)
+- MX, RD -> CHF 10
+- CHF 15 für Tageslizenz, falls keine Jahreslizenz 
+
+Bitte folge zudem den Anweisungen zur Vorauszahlung gemäss der Ausschreibung. Die Ausschreibung findest Du in Coral auf der Startseite jedes einzelnen Turniers. (siehe Screenshot)
+
+![Activated](img/faq-6-ausschreibung.jpg){: width="320px" }
+
+
+### \#7 Wlan an Turniere
 
 - *TODO*
 
