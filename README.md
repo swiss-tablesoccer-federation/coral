@@ -24,6 +24,7 @@ Die STF arbeitet daran den Informationsfluss und -gehalt zur Coral-Einführung z
 - [Ein Turnier aufschalten](https://register.swisstablesoccer.ch/#ein-turnier-aufschalten)
 - [Häufig gestellte Fragen (FAQ)](https://register.swisstablesoccer.ch/#faq)
     * [\#1 Ich kann mich nicht für Competitions registrieren. Die einzelnen Disziplinen sind ausgegraut](https://register.swisstablesoccer.ch/#1-ich-kann-mich-nicht-f%C3%BCr-competitions-registrieren-die-einzelnen-disziplinen-sind-ausgegraut)
+    * [\#1.1 Ich kann bei der Registrierung meine/n Spielpartner/in nicht auswählen.]()
     * [\#2 Coral zeigt nach dem Login auf dem PC nur eine weisse Oberfläche an](https://register.swisstablesoccer.ch/#2-coral-zeigt-nach-dem-login-auf-dem-pc-nur-eine-weisse-oberfl%C3%A4che-an)
     * [\#3.1 Wie kann ich Coral als Web-App installieren?](https://register.swisstablesoccer.ch/#31-wie-kann-ich-coral-als-web-app-installieren)
     * [\#3.2 Push-Benachrichtigungen funktionieren nicht auf meinem Handy](https://register.swisstablesoccer.ch/#32-push-benachrichtigungen-funktionieren-nicht-auf-meinem-handy)
@@ -77,6 +78,9 @@ Falls Dein Verein ein Regio-Turnier durchführen möchte, muss dieses ab Januar 
 ### \#1 Ich kann mich nicht für Competitions registrieren. Die einzelnen Disziplinen sind ausgegraut
 - Player Status entspricht nicht den Anforderungen. -> Membership STF (National oder Club) auf Active oder Club beitreten und Membership "Club" wählen
 - Alter erlaubt die Teilnahme an Senioren-Disziplinen nicht -> Edit Profil Information, dort Alter korrigieren
+
+### \#1.1 Ich kann bei der Registrierung meine/n Spielpartner/in nicht auswählen.
+Zur Teilnahme an der Swiss Tablesoccer Series (STS) sind nur Spielende mit Status *Active* zugelassen. Dein/e Spielpartner/in ist höchstwahrscheinlich noch nicht auf *Active*. Bitte sie/ihn darum, einem Verein beizutreten oder die bestehende Mitgliedschaft zu erneuern.
 
 ### \#2 Coral zeigt nach dem Login auf dem PC nur eine weisse Oberfläche an
 Falls bei einem Benutzer auf dem PC nach dem Login in Coral nur eine weisse Seite angezeigt werden sollte, dann könnte dies damit zu tun haben, das seine Zeiteinstellung nicht in Ordnung ist. Sprich seine Zeit auf dem PC ist nicht synchronisiert (z.B. 3 Minuten hinter der effektiven Zeit).
