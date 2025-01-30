@@ -24,7 +24,7 @@ Die STF arbeitet daran den Informationsfluss und -gehalt zur Coral-Einführung z
 - [Ein Turnier aufschalten](https://register.swisstablesoccer.ch/#ein-turnier-aufschalten)
 - [Häufig gestellte Fragen (FAQ)](https://register.swisstablesoccer.ch/#faq)
     * [\#1 Ich kann mich nicht für Competitions registrieren. Die einzelnen Disziplinen sind ausgegraut](https://register.swisstablesoccer.ch/#1-ich-kann-mich-nicht-f%C3%BCr-competitions-registrieren-die-einzelnen-disziplinen-sind-ausgegraut)
-    * [\#1.1 Ich kann bei der Registrierung meine/n Spielpartner/in nicht auswählen.]()
+    * [\#1.1 Ich kann bei der Registrierung meine/n Spielpartner/in nicht auswählen.](https://register.swisstablesoccer.ch/#11-ich-kann-bei-der-registrierung-meinen-spielpartnerin-nicht-ausw%C3%A4hlen)
     * [\#2 Coral zeigt nach dem Login auf dem PC nur eine weisse Oberfläche an](https://register.swisstablesoccer.ch/#2-coral-zeigt-nach-dem-login-auf-dem-pc-nur-eine-weisse-oberfl%C3%A4che-an)
     * [\#3.1 Wie kann ich Coral als Web-App installieren?](https://register.swisstablesoccer.ch/#31-wie-kann-ich-coral-als-web-app-installieren)
     * [\#3.2 Push-Benachrichtigungen funktionieren nicht auf meinem Handy](https://register.swisstablesoccer.ch/#32-push-benachrichtigungen-funktionieren-nicht-auf-meinem-handy)
