@@ -33,6 +33,8 @@ Die STF arbeitet daran den Informationsfluss und -gehalt zur Coral-Einführung z
     * [\#6 Wie sind die Gebühren, welche mir angezeigt werden zu verstehen?](https://register.swisstablesoccer.ch/#6-wie-sind-die-geb%C3%BChren-welche-mir-angezeigt-werden-zu-verstehen)
     * [\#7 Wo finde ich neu die Turnierausschreibung?](https://register.swisstablesoccer.ch/#7-wo-finde-ich-neu-die-turnierausschreibung)
     * [\#8 WLAN an Turniere](https://register.swisstablesoccer.ch/#8-wlan-an-turniere)
+    * [\##9 Welche Lizenztypen gibt es in Coral und wie bilden sie sich auf die bekannten STF Strukturen ab?](https://register.swisstablesoccer.ch/#8-wlan-an-turniere)
+    * [\#10 Ich erfülle die Anforderungen für ITSF-Turniere nicht](https://register.swisstablesoccer.ch/#8-wlan-an-turniere)
 
 ## Coral Accounts
 
@@ -142,5 +144,33 @@ Die Ausschreibung findest Du nun auch in Coral. Auf der Startseite jedes einzeln
 
 ### \#8 WLAN an Turniere
 
-- *TODO*
+Das Streaming-Team der STF stellt an Turnieren der Swiss Tablesoccer Series (STS) gratis WLAN zur Verfügung, durch welches sich auch bei schlechtem Empfang in der Halle die Interaktion mit Coral ausreichend angenehm gestaltet. Die Zugangsdaten sind wie folgt:
 
+| Bezeichnung | Wert |
+|:---|:---|
+| SSID 2.4 Ghz | STFTurnier |
+| Passwort | STFTurnier! |
+
+_**Disclaimer:** Es besteht kein Anspruch auf Verfügbarkeit des Services. Es kann aufgrund personellen Engpässen zu Ausnahmen kommen._
+
+
+### \#9 Welche Lizenztypen gibt es in Coral und wie bilden sie sich auf die bekannten STF Strukturen ab?
+
+|Membership | Beschreibung|
+|:---|:---|
+| __International__ | Alle mit gültiger ITSF Lizenz (CHF 10) |
+| __National__ | Alle mit gültiger STF Lizenz (CHF 50) |
+| __Club__ | Alle mit Clubmitgliedschaft (Individuell, keine Lizenz, nutzen Tageslizenz) |
+| __Guest__ | Alle übrigen (Weder ITSF, STF noch Club-Mitgliedschaft) |
+
+_**Bemerkung:** Es gilt International > National > Club > Guest, ">" heisst ist Teilmenge von._
+
+
+### \#10 Ich erfülle die Anforderungen für ITSF-Turniere nicht
+
+Um an einem ITSF Turnier, früher Pro  (250, 500, 750 & 1000)Tour, Master Series, World Series, ist eine ITSF-Lizenz erforderlich. Diese ist in der STF-Jahreslizenz inkludiert. Spielende ohne STF-Jahreslizenz können direkt eine ITSF-Lizenz erwerben, in dem sie wie folgt vorgehen.
+- Join Club > ITSF Membership > International 
+
+![Join Club](img/join-club.jpg){: width="320px" }
+![ITSF Membership](img/faq-10-itsf-membership.png){: width="320px" }
+![International](img/faq-10-international.png){: width="320px" }
