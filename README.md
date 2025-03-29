@@ -33,8 +33,8 @@ Die STF arbeitet daran den Informationsfluss und -gehalt zur Coral-Einführung z
     * [\#6 Wie sind die Gebühren, welche mir angezeigt werden zu verstehen?](https://register.swisstablesoccer.ch/#6-wie-sind-die-geb%C3%BChren-welche-mir-angezeigt-werden-zu-verstehen)
     * [\#7 Wo finde ich neu die Turnierausschreibung?](https://register.swisstablesoccer.ch/#7-wo-finde-ich-neu-die-turnierausschreibung)
     * [\#8 WLAN an Turniere](https://register.swisstablesoccer.ch/#8-wlan-an-turniere)
-    * [\##9 Welche Lizenztypen gibt es in Coral und wie bilden sie sich auf die bekannten STF Strukturen ab?](https://register.swisstablesoccer.ch/#8-wlan-an-turniere)
-    * [\#10 Ich erfülle die Anforderungen für ITSF-Turniere nicht](https://register.swisstablesoccer.ch/#8-wlan-an-turniere)
+    * [\#9 Welche Lizenztypen gibt es in Coral und wie bilden sie sich auf die bekannten STF Strukturen ab?](https://register.swisstablesoccer.ch/#10-ich-erf%C3%BClle-die-anforderungen-f%C3%BCr-itsf-turniere-nicht)
+    * [\#10 Ich erfülle die Anforderungen für ITSF-Turniere nicht](https://register.swisstablesoccer.ch/#10-ich-erf%C3%BClle-die-anforderungen-f%C3%BCr-itsf-turniere-nicht)
 
 ## Coral Accounts
 
