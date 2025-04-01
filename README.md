@@ -156,21 +156,19 @@ _**Disclaimer:** Es besteht kein Anspruch auf Verfügbarkeit des Services. Es ka
 
 ### \#9 Welche Lizenztypen gibt es in Coral und wie bilden sie sich auf die bekannten STF Strukturen ab?
 
-|Membership | Beschreibung|
-|:---|:---|
-| __International__ | Alle mit gültiger ITSF Lizenz (CHF 10) |
-| __National__ | Alle mit gültiger STF Lizenz (CHF 50) |
-| __Club__ | Alle mit Clubmitgliedschaft (Individuell, keine Lizenz, nutzen Tageslizenz) |
-| __Guest__ | Alle übrigen (Weder ITSF, STF noch Club-Mitgliedschaft) |
+|Membership | Level | Beschreibung | Berechtigt für | Kosten |
+|:---|:---|:---|:---|:---|
+| __International - ITSF & STF__ | International | Alle mit gültiger ITSF & STF Jahreslizenz | ITSF 250/500/750/1000, STS, STRT, CH-Meisterschaft | CHF 50 + Clubmitgliedschaft
+| __National - STF__ (theoretisch) | National | Alle mit gültiger STF Lizenz ohne ITSF Lizenz | STS ohne ITSF Status, STRT, CH-Meisterschaft | CHF 40 + Clubmitgliedschaft |
+| __Club - STF__ | National | Alle mit Clubmitgliedschaft, ohne ITSF & STF Lizenz | STS ohne ITSF Status, STRT | Clubmitgliedschaft |
+| __Guest - STF__ | National | Alle übrigen (Weder ITSF, STF noch Clubmitgliedschaft) | STS ohne ITSF Status, STRT | Kein |
+| __Club - ITSF__ | International | Alle mit Clubmitgliedschaft & ITSF Lizenz, ohne STF Lizenz | ITSF 250/500/750/1000, STS, STRT | CHF 10 + Clubmitgliedschaft | 
+| __Guest - ITSF__ | International | ITSF Lizenz, ohne STF Lizenz und Clubmitgliedschaft | ITSF 250/500/750/1000, STS, STRT | CHF 10 + Admingebühr | 
 
-_**Bemerkung:** Es gilt International > National > Club > Guest, ">" heisst ist Teilmenge von._
+
+_**Disclaimer:** Diese Auflistung dient aktuell, um eine brauchbare Datenhaltung in Coral zu schaffen. Wie genau die Lizenzierung für 2026 aussehen wird, muss und wird noch diskutiert werden. Ebenfalls gerade im Zusammenhang mit dem Schiedsrichterwesen kann und wird es wohl noch Anpassungen geben._
 
 
 ### \#10 Ich erfülle die Anforderungen für ITSF-Turniere nicht
 
-Um an einem ITSF Turnier, früher Pro  (250, 500, 750 & 1000)Tour, Master Series, World Series, ist eine ITSF-Lizenz erforderlich. Diese ist in der STF-Jahreslizenz inkludiert. Spielende ohne STF-Jahreslizenz können direkt eine ITSF-Lizenz erwerben, in dem sie wie folgt vorgehen.
-- Join Club > ITSF Membership > International 
-
-![Join Club](img/join-club.jpg){: width="320px" }
-![ITSF Membership](img/faq-10-itsf-membership.png){: width="320px" }
-![International](img/faq-10-international.png){: width="320px" }
+Um an einem ITSF Turnier, früher Pro  (250, 500, 750 & 1000)Tour, Master Series, World Series, ist eine ITSF-Lizenz erforderlich. Diese ist in der STF-Jahreslizenz inkludiert. Spielende ohne STF-Jahreslizenz können über ihren Club entweder _Club - ITSF_ oder _Guest - ITSF_ wählen und so eine ITSF-Lizenz erwerben.
