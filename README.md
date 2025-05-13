@@ -21,7 +21,7 @@ Die STF arbeitet daran den Informationsfluss und -gehalt zur Coral-Einführung z
 - [Anmelden für Turniere](https://register.swisstablesoccer.ch/#anmelden-f%C3%BCr-turniere)
 - [Einem Club beitreten](https://register.swisstablesoccer.ch/#einem-club-beitreten)
 - [Während eines Turniers](https://register.swisstablesoccer.ch/#w%C3%A4hrend-eines-turniers)
-- [Ein Turnier aufschalten](https://register.swisstablesoccer.ch/#ein-turnier-aufschalten)
+- [Ein Turnier aufschalten](https://register.swisstablesoccer.ch/tournaments)
 - [Häufig gestellte Fragen (FAQ)](https://register.swisstablesoccer.ch/#faq)
     * [\#1 Ich kann mich nicht für Competitions registrieren. Die einzelnen Disziplinen sind ausgegraut](https://register.swisstablesoccer.ch/#1-ich-kann-mich-nicht-f%C3%BCr-competitions-registrieren-die-einzelnen-disziplinen-sind-ausgegraut)
     * [\#1.1 Ich kann bei der Registrierung meine/n Spielpartner/in nicht auswählen.](https://register.swisstablesoccer.ch/#11-ich-kann-bei-der-registrierung-meinen-spielpartnerin-nicht-ausw%C3%A4hlen)
@@ -68,12 +68,6 @@ Um einem Club beitreten zu können kannst Du unter Deinem *Profile > Join Club* 
 ## ⁠Während eines Turniers
 - Resultat Eingabe
 - ⁠Recalls
-
-## Ein Turnier aufschalten
-
-Falls Dein Verein ein Regio-Turnier durchführen möchte, muss dieses ab Januar 2025 in Coral eingetragen, durchgeführt und darüber abgewickelt werden. Wir werden diese Seite demnächst entsprechend erweitern. Für den Moment, wende Dich bitte wie gewohnt an [sport@swisstablesoccer.ch](mailto:sport@swisstablesoccer.ch). Teil uns bitte gleich mit, wen wir zur Eingabe des Turniers in Coral berechtigen und in den Kreis der Coral-Manager aufnehmen dürfen. Dies Person wird dann entsprechende Infos und Schulung erhalten.
-
-- Swiss Tablesoccer Regio Tour Status erwerben
 
 ## ⁠FAQ
 
@@ -161,7 +155,7 @@ _**Disclaimer:** Es besteht kein Anspruch auf Verfügbarkeit des Services. Es ka
 | __International - ITSF & STF__ | International | Alle mit gültiger ITSF & STF Jahreslizenz | ITSF 250/500/750/1000, STS, STRT, CH-Meisterschaft | CHF 50 + Clubmitgliedschaft
 | __National - STF__ (theoretisch) | National | Alle mit gültiger STF Lizenz ohne ITSF Lizenz | STS ohne ITSF Status, STRT, CH-Meisterschaft | CHF 40 + Clubmitgliedschaft |
 | __Club - STF__ | National | Alle mit Clubmitgliedschaft, ohne ITSF & STF Lizenz | STS ohne ITSF Status, STRT | Clubmitgliedschaft |
-| __Guest - STF__ | National | Alle übrigen (Weder ITSF, STF noch Clubmitgliedschaft) | STS ohne ITSF Status, STRT | Kein |
+| __Guest - STF__ | National | Alle übrigen (Weder ITSF, STF noch Clubmitgliedschaft) | STS ohne ITSF Status, STRT | Keine |
 | __Club - ITSF__ | International | Alle mit Clubmitgliedschaft & ITSF Lizenz, ohne STF Lizenz | ITSF 250/500/750/1000, STS, STRT | CHF 10 + Clubmitgliedschaft | 
 | __Guest - ITSF__ | International | ITSF Lizenz, ohne STF Lizenz und Clubmitgliedschaft | ITSF 250/500/750/1000, STS, STRT | CHF 10 + Admingebühr | 
 
