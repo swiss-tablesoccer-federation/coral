@@ -7,7 +7,7 @@ Liebe Tischfussball-Community,
 der Wechsel zur neuen Turnier Software *[Coral - https://app.tablesoccer.org](https://app.tablesoccer.org)* per 1. Januar 2025 erlaubt uns vieles zu digitalisieren und somit gleichzeitig den administrativen Aufwand für alle beteiligten zu minimiren. Somit wird auch das administrative rund um die Tunierabwicklung vereinfach und zentralisiert - auf lose, verteilte Google-Forms, Excelsheets und E-Mailverkehr kann in Zukunft grossmehrheitlich verzichtet werden. 
 
 Die wesentlichsten Änderungen in Kürze:
-- Die Anmeldung aller Turniere, sowohl STRT als auch STS, erfolgt neu über Coral *→ siehe [Turnieranmeldung](https://register.swisstablesoccer.ch/tournaments/#turnieranmeldung)*
+- Die Anmeldung aller Turniere, sowohl STRT als auch STS, erfolgt neu über Coral *→ siehe [Turnieranmeldung](https://register.swisstablesoccer.ch/tournaments/#anmeldung)*
 - Die Kriterien für den Erhalt des STRT Status wurden verschriftlicht und publiziert *→ siehe [Annahmekriterien](https://register.swisstablesoccer.ch/tournaments/#annahmekriterien)*
 - Die __Tageslizenz (CHF 3) für Regio-Turniere (STRT) wurde abgeschaft__. Stattdessen wurde eine Pauschale von CHF 20 pro STRT eingeführt *→ siehe [Lizenzierung STRT](https://register.swisstablesoccer.ch/tournaments/#lizenzierung-strt)*
 - Keine Abrechnung und kein manuelles Einreichen der Resultate mehr notwendig
@@ -16,35 +16,19 @@ Die wesentlichsten Änderungen in Kürze:
 ## Inhaltsverzeichnis
 
 - [Inhaltsverzeichnis](https://register.swisstablesoccer.ch/tournaments/#inhaltsverzeichnis)
-- [Turnierabwicklung](https://register.swisstablesoccer.ch/tournaments/#turnierabwicklung)
-    - [Anmeldung](https://register.swisstablesoccer.ch/tournaments/#anmeldung)
-    - [Durchführung](https://register.swisstablesoccer.ch/tournaments/#durchf%C3%BCrung)
-    - [Abschluss](https://register.swisstablesoccer.ch/tournaments/#abschluss)
-    - [Vorlagen](https://register.swisstablesoccer.ch/tournaments/#Vorlagen)
 - [Tour Status](https://register.swisstablesoccer.ch/tournaments/#tour-status)
     - [Annahmekriterien STRT](https://register.swisstablesoccer.ch/tournaments/#annahmekriterien-strt)
     - [Annahmekriterien STS](https://register.swisstablesoccer.ch/tournaments/#annahmekriterien-sts)
     - [Annahmekriterien STS mit ITSF Status](https://register.swisstablesoccer.ch/tournaments/#annahmekriterien-sts-mit-itsf-status)
 - [Lizenzierung STRT](https://register.swisstablesoccer.ch/tournaments/#lizenzierung-strt)
+- [Turnierabwicklung](https://register.swisstablesoccer.ch/tournaments/#turnierabwicklung)
+    - [Anmeldung](https://register.swisstablesoccer.ch/tournaments/#anmeldung)
+    - [Durchführung](https://register.swisstablesoccer.ch/tournaments/#durchf%C3%BChrung)
+    - [Abschluss](https://register.swisstablesoccer.ch/tournaments/#abschluss)
+    - [Vorlagen](https://register.swisstablesoccer.ch/tournaments/#vorlagen)
 - [Häufig gestellte Fragen (FAQ)](https://register.swisstablesoccer.ch/tournaments/#faq)
 
 Bemerkung: empfehlung, Turnieranfragen an einem Computer oder Tablet zu machen
-
-## Turnierabwicklung
-*TODO*
-
-### Anmeldung
--  durch Wizard führen
-- Messages nutzen
-
-### Durchführung
-*TODO*
-
-### Abschluss
-*TODO*
-
-### Vorlagen
-*TODO*
 
 
 ## Tour Status
@@ -59,7 +43,9 @@ Das [Reglement Individualsport v.2004-1](https://www.swisstablesoccer.ch/s/Regle
 | __STS WT 500__ | Swiss Tablesoccer Series mit ITSF World Tour 500| CHF 300 | 20% | ITSF- & STF-Lizenz | [Annahmekriterien STS mit ITSF Status](https://register.swisstablesoccer.ch/tournaments/#annahmekriterien-sts-mit-itsf-status) |
 
 *<sup>1</sup> Die Kosten für ITSF-Status werden dem Organisator übertragen. Bei der STRT ersetzt eine Pauschale die Tageslizenzen. Bei STS ohne ITSF-Status fallen keine Gebühren an.*
+
 *<sup>2</sup> Die Verteilung 60-20-20 (Preisgeld, Organisator, SM-Pot) des Startgeldes ist im Reglement Individualsport geregelt. Bei der STRT verfügt der Organisator über die Verteilung des Stargeldes.*
+
 *<sup>3</sup> Die STF bietet Jahres- und Tageslizenzen an. Die ITSF bietet nur Jahreslizenzen (€10) an. Eine Übersicht über verschiedene Lizenztypen befindet sich [hier](https://register.swisstablesoccer.ch/#9-welche-lizenztypen-gibt-es-in-coral-und-wie-bilden-sie-sich-auf-die-bekannten-stf-strukturen-ab).*
 
 
@@ -93,6 +79,33 @@ Mit der Einführung von Coral hat die STF im Rahmen der Vereinfachung administra
 - Eine Überweisung unmitelbar nach dem Turnier wird überflüssig. Anfallende Gebühren werden einmal jährlich in Rechnung gestellt
 - Sämmtliche Spielende sind zu Regioturnieren zugelassen, ein Tages- oder Jahreslizenz ist nicht länger notwendig. Ein Abgleich mit der Liste lizenzierter Personen entfällt.
 - Der administrative Aufwand für Mitarbeitende der STF reduziert sich drastisch.
+
+
+## Turnierabwicklung
+*TODO*
+
+### Anmeldung
+-  Wizard 
+
+![Step 1](img/new-01.png){: width="480px" }
+![Step 2](img/new-02.png){: width="480px" }
+
+![Step 3](img/new-03.png){: width="480px" }
+![Step 4](img/new-04.png){: width="480px" }
+
+![Step 5](img/new-05.png){: width="480px" }
+![Step 6](img/new-06.png){: width="480px" }
+
+- Messages nutzen
+
+### Durchführung
+*TODO*
+
+### Abschluss
+*TODO*
+
+### Vorlagen
+*TODO*
 
 
 ## ⁠FAQ
