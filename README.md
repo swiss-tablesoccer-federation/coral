@@ -58,10 +58,8 @@ Um Dich für Turniere anmelden zu können, musst Dein Status erst auf *Active* s
 
 ## ⁠Einem Club beitreten
 
-Um einem Club beitreten zu können kannst Du unter Deinem *Profile > Join Club* auswählen. Danach im Suchfeld nach Deinem Verein suchen, die passende Mitgliedschaft auswählen und erforderliche Informationen ausfüllen. Wähle die Mitgliedschaft wie folgt:
-- __International__ falls Du eine Jahreslizenz bei der STF erworben hast und planst ITSF-Turniere zu spielen
-- __National__ falls Du eine Jahreslizenz bei der STF erworben hast und planst, keine ITSF-Turniere zu spielen
-- __Club__ falls Du keine Jahreslizenz bei der STF erworben hast und in allen anderen Fällen
+Um einem Club beitreten zu können kannst Du unter Deinem *Profile > Join Club* auswählen. Danach im Suchfeld nach Deinem Verein suchen, die passende Mitgliedschaft auswählen und erforderliche Informationen ausfüllen. Wähle die Mitgliedschaft gemäss [Lizenztypen ab 2026](https://license.swisstablesoccer.ch/#lizenztypen-ab-2026).
+
 
 ![Join Club](img/join-club.jpg){: width="320px" }
 
