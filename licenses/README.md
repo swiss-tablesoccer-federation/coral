@@ -2,22 +2,22 @@
 
 # Lizenzierung ab 2026 über Coral
 
-Basierend auf dem neuen [Finanzreglement](https://static1.squarespace.com/static/6797790a8025010384cf53f2/t/68ffb77095bbce1af05a15ac/1761589104375/2025-10-23-Finanzreglement+Turnier+%26+Lizenzwesen.pdf) werden ab 2026 neue Lizenztypen eingeführt und wie nachfolgend beschrieben in [Coral](https://app.tablesoccer.ch) abgebildet. Die Lizenzierung läuft jeweils ab dem Tag der Freigabe bis zum 31. Dezember des laufenden Jahres und werden automatisch zum Jahreswechsel inaktiviert. Spielenden könnn den passenden [Lizenztypen](https://license.swisstablesoccer.ch/#lizenztypen-ab-2026) direkt in [Coral](https://app.tablesoccer.ch) selber wählen und beantragen. Die dadurch anfallenden Gebühren werden wie bisher beim jenem Verein begleichen, welchem man als Mitglied oder Gast angehört (siehe auch [Abrechnung](https://license.swisstablesoccer.ch/#abrechnung)). 
+Basierend auf dem neuen [Finanzreglement](https://static1.squarespace.com/static/6797790a8025010384cf53f2/t/68ffb77095bbce1af05a15ac/1761589104375/2025-10-23-Finanzreglement+Turnier+%26+Lizenzwesen.pdf) werden ab 2026 neue Lizenztypen eingeführt und wie nachfolgend beschrieben in [Coral](https://app.tablesoccer.ch) abgebildet. Die Lizenzierung läuft jeweils ab dem Tag der Freigabe bis zum 31. Dezember des laufenden Jahres und werden automatisch zum Jahreswechsel inaktiviert. Spielenden könnn den passenden [Lizenztypen](https://register.swisstablesoccer.ch/licenses#lizenztypen-ab-2026) direkt in [Coral](https://app.tablesoccer.ch) selber wählen und beantragen. Die dadurch anfallenden Gebühren werden wie bisher beim jenem Verein begleichen, welchem man als Mitglied oder Gast angehört (siehe auch [Abrechnung](https://register.swisstablesoccer.ch/#abrechnung)). 
 
 
 
 ## Inhaltsverzeichnis
 
-- [Inhaltsverzeichnis](https://license.swisstablesoccer.ch/#inhaltsverzeichnis)
-- [Lizenztypen ab 2026](https://license.swisstablesoccer.ch/#lizenztypen-ab-2026)
-- [Lizenz in Coral beantragen](https://license.swisstablesoccer.ch/#lizenz-in-Coral-beantragen)
-- [Abrechnung](https://license.swisstablesoccer.ch/#abrechnung)
-- [Häufig gestellte Fragen (FAQ)](https://license.swisstablesoccer.ch/#faq)
-    * [\#1 Werden Lizenzen direkt in Coral beantragt?](https://license.swisstablesoccer.ch/#1-werden-lizenzen-direkt-in-coral-beantragt)
-    * [\#2 An wen muss ich Lizenzkosten bezahlen?](https://license.swisstablesoccer.ch/#1-an-wen-muss-ich-lizenzkosten-bezahlen)
-    * [\#3 Kann ich die Jahreslizenz auch unter dem Jahr lösen?](https://license.swisstablesoccer.ch/#1-sample)
-    * [\#4 Kann ich meine Lizenz upgraden?](https://license.swisstablesoccer.ch/#4-kann-ich-meine-lizenz-upgraden)
-    * [\#5 Wer kann für meinen Verein Lizenzen freigeben?](https://license.swisstablesoccer.ch/#5-wer-kann-für-meinen-verein-lizenzen-freigeben)
+- [Inhaltsverzeichnis](https://register.swisstablesoccer.ch/licenses#inhaltsverzeichnis)
+- [Lizenztypen ab 2026](https://register.swisstablesoccer.ch/licenses#lizenztypen-ab-2026)
+- [Lizenz in Coral beantragen](https://register.swisstablesoccer.ch/licenses#lizenz-in-Coral-beantragen)
+- [Abrechnung](https://register.swisstablesoccer.ch/licenses#abrechnung)
+- [Häufig gestellte Fragen (FAQ)](https://register.swisstablesoccer.ch/licenses#faq)
+    * [\#1 Werden Lizenzen direkt in Coral beantragt?](https://register.swisstablesoccer.ch/licenses#1-werden-lizenzen-direkt-in-coral-beantragt)
+    * [\#2 An wen muss ich Lizenzkosten bezahlen?](https://register.swisstablesoccer.ch/licenses#1-an-wen-muss-ich-lizenzkosten-bezahlen)
+    * [\#3 Kann ich die Jahreslizenz auch unter dem Jahr lösen?](https://register.swisstablesoccer.ch/licenses#1-sample)
+    * [\#4 Kann ich meine Lizenz upgraden?](https://register.swisstablesoccer.ch/licenses#4-kann-ich-meine-lizenz-upgraden)
+    * [\#5 Wer kann für meinen Verein Lizenzen freigeben?](https://register.swisstablesoccer.ch/licenses#5-wer-kann-für-meinen-verein-lizenzen-freigeben)
 
 ## Lizenztypen ab 2026
 
@@ -25,9 +25,9 @@ Basierend auf dem neuen [Finanzreglement](https://static1.squarespace.com/static
 |:---|:---|:---|:---|:---|:---|:---:|:---:|:---:|
 | __Jahreslizenz (inkl. ITSF)__ | International | STF Jahreslizenz, enthält ITSF-Lizenz, gelistet in STF-Rangliste | __CH-Meisterschaft__, STS, STRT Pro, STRT, __ITSF-Turniere im In- & Ausland__ | Keine Einschränkung | CHF 50 + Referee | Keine | Keine | Keine |
 | __Clubmitglied (inkl. ITSF)__ | International | Clubmitgliedschaft, enthält ITSF-Lizenz, __keine Rangierung__ | STS, STRT Pro, STRT | __CH-Meisterschaft__, ITSF-Turniere im __Ausland__* | Keine* | __CHF 15__ | Keine | __CHF 25__ |
-| __Clubmitglied (exkl. ITSF)__ | National | Clubmitgliedschaft ohne ITSF-Lizenz, __keine Rangierung__ | STRT Pro, STRT | __CH-Meisterschaft__, ITSF-Turniere im __Ausland__*, STS | Keine | N/A | Keine | Keine | N/A |
+| __Clubmitglied (exkl. ITSF)__ | National | Clubmitgliedschaft ohne ITSF-Lizenz, __keine Rangierung__ | STRT Pro, STRT | __CH-Meisterschaft__, ITSF-Turniere im __Ausland__*, STS | Keine | N/A | Keine | N/A |
 | __Gast (inkl. ITSF)__ | International | Breitensport, enthält ITSF-Lizenz, __keine Rangierung__ | STS, STRT Pro, STRT | __CH-Meisterschaft__, ITSF-Turniere im __Ausland__* | Keine* | __CHF 15__ | Keine | __CHF 25__ |
-| __Gast (exkl. ITSF)__ | National | Breitensport *ohne Lizenzierung*, __keine Rangierung__| STRT Pro, STRT | __CH-Meisterschaft__, ITSF-Turniere im __Ausland__*, STS |  Keine | N/A | Keine | Keine | N/A |
+| __Gast (exkl. ITSF)__ | National | Breitensport *ohne Lizenzierung*, __keine Rangierung__| STRT Pro, STRT | __CH-Meisterschaft__, ITSF-Turniere im __Ausland__*, STS |  Keine | N/A | Keine | N/A |
 
 __\*__ Für STS-Turniere mit ITSF-Status (250, 500, 750) ist eine *aktive* ITSF-Lizenz notwendig. Die Lizenztypen __*Clubmitglied (inkl. ITSF)**__ und __*Gast (inkl. ITSF)*__ erlauben dem Breitensport (gelegenheits Pub-Spieler) einen erleichterten Einstieg in die Turnierwelt und __keine__ kostenlose ITSF-Lizenz. Bei Missbrauch werden gemäss [Finanzreglement](https://static1.squarespace.com/static/6797790a8025010384cf53f2/t/68ffb77095bbce1af05a15ac/1761589104375/2025-10-23-Finanzreglement+Turnier+%26+Lizenzwesen.pdf) (3.2.1) CHF 25.- in Rechnung gestellt.
 
@@ -82,7 +82,7 @@ __\*__ Für STS-Turniere mit ITSF-Status (250, 500, 750) ist eine *aktive* ITSF-
 
 ### Beantragen durch Spielende
 
-__Erstmaliges beantragen einer Lizenz__ siehe [Einem Club beitreten](https://register.swisstablesoccer.ch/#einem-club-beitreten)
+__Erstmaliges beantragen einer Lizenz__ siehe [Einem Club beitreten](https://register.swisstablesoccer.ch/licenses#einem-club-beitreten)
 
 __Erneuern einer Lizenz__
 
@@ -118,12 +118,12 @@ Mit der Freigabe einer Lizenz, verpflichtet sich der Verein, entstehende Lizenzk
 
 ### \#1 Werden Lizenzen direkt in Coral beantragt?
 
-Spielenden könnn den passenden [Lizenztypen](https://license.swisstablesoccer.ch/#lizenztypen-ab-2026) direkt in [Coral](https://app.tablesoccer.ch) selber wählen und beantragen.
+Spielenden könnn den passenden [Lizenztypen](https://register.swisstablesoccer.ch/licenses#lizenztypen-ab-2026) direkt in [Coral](https://app.tablesoccer.ch) selber wählen und beantragen.
 
 
 ### \#2 An wen muss ich Lizenzkosten bezahlen?
 
-Anfallenden Gebühren werden wie bisher beim jenem Verein begleichen, welchem man als Mitglied oder Gast angehört (siehe auch [Abrechnung](https://license.swisstablesoccer.ch/#abrechnung)). 
+Anfallenden Gebühren werden wie bisher beim jenem Verein begleichen, welchem man als Mitglied oder Gast angehört (siehe auch [Abrechnung](https://register.swisstablesoccer.ch/licenses#abrechnung)). 
 
 ### \#3 Kann ich die Jahreslizenz auch unter dem Jahr lösen?
 
