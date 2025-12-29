@@ -68,19 +68,14 @@ Die STF hat für jeden Mitgliederverein einen _Organisationsmanager_ ernannt. Di
 
 ![Messages](img/check-01.png){: width="320px" }
 ![Message Center](img/check-02.png){: width="320px" }
-![Check License](img/check-03.png){: width="320px" }
-![Approve](img/check-04.png){: width="320px" }
-
-
-
 
 2. Im Zweifelsfall bei der Person nachfragen und den Lizenztyp vor der Freigabe Anpassen. 
 
-TODO Bild
+![Check License](img/check-03.png){: width="320px" }
 
 3. _Freigabe_ oder _Ablehnung_ der Anfrage.
 
-TODO Bild
+![Approve](img/check-04.png){: width="320px" }
 
 
 
