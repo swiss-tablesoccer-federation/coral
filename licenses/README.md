@@ -10,16 +10,19 @@ Basierend auf dem neuen [Finanzreglement](https://static1.squarespace.com/static
 
 - [Inhaltsverzeichnis](https://register.swisstablesoccer.ch/licenses#inhaltsverzeichnis)
 - [Lizenztypen ab 2026](https://register.swisstablesoccer.ch/licenses#lizenztypen-ab-2026)
-- [Lizenz in Coral beantragen](https://register.swisstablesoccer.ch/licenses#lizenz-in-Coral-beantragen)
+- [Kosten je Lizenztyp](https://register.swisstablesoccer.ch/licenses/#kosten-je-lizenztyp)
+- [Lizenz in Coral beantragen](https://register.swisstablesoccer.ch/licenses/#lizenz-in-coral-beantragen)
+    * [Beantragen durch Spielende](https://register.swisstablesoccer.ch/licenses/#beantragen-durch-spielende)
+    * [Freigabe durch Vereine](https://register.swisstablesoccer.ch/licenses/#freigabe-durch-vereine)
 - [Abrechnung](https://register.swisstablesoccer.ch/licenses#abrechnung)
 - [Häufig gestellte Fragen (FAQ)](https://register.swisstablesoccer.ch/licenses#faq)
     * [\#1 Werden Lizenzen direkt in Coral beantragt?](https://register.swisstablesoccer.ch/licenses#1-werden-lizenzen-direkt-in-coral-beantragt)
-    * [\#2 An wen muss ich Lizenzkosten bezahlen?](https://register.swisstablesoccer.ch/licenses#1-an-wen-muss-ich-lizenzkosten-bezahlen)
-    * [\#3 Kann ich die Jahreslizenz auch unter dem Jahr lösen?](https://register.swisstablesoccer.ch/licenses#1-sample)
-    * [\#4 Kann ich meine Lizenz upgraden?](https://register.swisstablesoccer.ch/licenses#4-kann-ich-meine-lizenz-upgraden)
-    * [\#5 Welche Lizenz passt zu mir?](https://register.swisstablesoccer.ch/licenses#5-welche-lizenz-passt-zu-mir)
-    * [\#6 Wer kann für meinen Verein Lizenzen freigeben?](https://register.swisstablesoccer.ch/licenses#6-wer-kann-für-meinen-verein-lizenzen-freigeben)
-    * [\#7 Big Picture Lizenzierung](https://register.swisstablesoccer.ch/licenses#7-big-picture-lizenzierung-2026)
+    * [\#2 An wen muss ich Lizenzkosten bezahlen?](https://register.swisstablesoccer.ch/licenses/#2-an-wen-muss-ich-lizenzkosten-bezahlen)
+    * [\#3 Kann ich die Jahreslizenz auch unter dem Jahr lösen?](https://register.swisstablesoccer.ch/licenses/#3-kann-ich-die-jahreslizenz-auch-unter-dem-jahr-lösen)
+    * [\#4 Kann ich meine Lizenz upgraden?](https://register.swisstablesoccer.ch/licenses/#4-kann-ich-meine-lizenz-upgraden)
+    * [\#5 Welche Lizenz passt zu mir?](https://register.swisstablesoccer.ch/licenses/#5-welche-lizenz-passt-zu-mir)
+    * [\#6 Wer kann für meinen Verein Lizenzen freigeben?](https://register.swisstablesoccer.ch/licenses/#6-wer-kann-für-meinen-verein-lizenzen-freigeben)
+    * [\#7 Big Picture Lizenzierung](https://register.swisstablesoccer.ch/licenses/#7-big-picture-lizenzierung-2026)
 
 ## Lizenztypen ab 2026
 
