@@ -65,13 +65,18 @@ __Erneuern einer Lizenz__
 Die STF hat für jeden Mitgliederverein einen _Organisationsmanager_ ernannt. Dieser ist für die Kontrolle und Freigabe von Lizenzanfragen zuständig. Durch die Freigabe von beantragten Lizenzen anfallende Kosten werden von der STF dem entsprechenden Verein in Rechnung gestellt. Die Kontrolle und das Einfordern ausstehender Beträge liegt in der Verantwortung der Vereine.
 
 1. Kontrolle des gewählten Lizenztyps. Passt der Lizenztyp zur Person?
+
     ![Messages](img/check-01.png){: width="320px" }
     ![Message Center](img/check-02.png){: width="320px" }
     ![Check License](img/check-03.png){: width="320px" }
     ![Check License](img/check-04.png){: width="320px" }
+
 2. Im Zweifelsfall bei der Person nachfragen und den Lizenztyp vor der Freigabe Anpassen. 
+
     ![Change License](img/check-06.png){: width="320px" }
+
 3. _Freigabe_ oder _Ablehnung_ der Anfrage.
+
     ![Approve](img/check-05.png){: width="320px" }
 
 
