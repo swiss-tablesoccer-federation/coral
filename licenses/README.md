@@ -45,7 +45,7 @@ Basierend auf dem neuen [Finanzreglement](https://static1.squarespace.com/static
 | __Gast (inkl. ITSF)__ *(International)* | Keine* | __CHF 15__ | Keine | Keine | __CHF 25__ |
 | __Gast (exkl. ITSF)__ *(National)* | Keine | N/A | Keine | Keine | N/A |
 
-__\*__ Für STS-Turniere mit ITSF-Status (250, 500, 750) ist eine *aktive* ITSF-Lizenz notwendig. Die Lizenztypen __*Clubmitglied (inkl. ITSF)**__ und __*Gast (inkl. ITSF)*__ erlauben dem Breitensport (gelegenheits Pub-Spieler) einen erleichterten Einstieg in die Turnierwelt und __keine__ kostenlose ITSF-Lizenz. Bei Missbrauch werden gemäss [Finanzreglement](https://static1.squarespace.com/static/6797790a8025010384cf53f2/t/68ffb77095bbce1af05a15ac/1761589104375/2025-10-23-Finanzreglement+Turnier+%26+Lizenzwesen.pdf) (3.2.1) CHF 25 in Rechnung gestellt.
+__\*__ Für STS-Turniere mit ITSF-Status (250, 500, 750) ist eine *aktive* ITSF-Lizenz notwendig. Die Lizenztypen __*Clubmitglied (inkl. ITSF)*__ und __*Gast (inkl. ITSF)*__ erlauben dem Breitensport (gelegenheits Pub-Spieler) einen erleichterten Einstieg in die Turnierwelt und __keine__ kostenlose ITSF-Lizenz. Bei Missbrauch werden gemäss [Finanzreglement](https://static1.squarespace.com/static/6797790a8025010384cf53f2/t/68ffb77095bbce1af05a15ac/1761589104375/2025-10-23-Finanzreglement+Turnier+%26+Lizenzwesen.pdf) (3.2.1) CHF 25 in Rechnung gestellt.
 
 *__Disclaimer:__ Vereine dürfen Gäste ablehnen oder aber eine Administrationsgebühr verlangen. Die STF hat keinen Einfluss auf die Handhabung der einzelnen Vereine.*
 
@@ -170,10 +170,10 @@ Die nachfolgende Tabelle zeigt Personen je Verein, welche für die Freigabe zust
 | Fordere.ch Zürich | Philipp Gamper |
 | TFC Bern | Sandra Gäumann |
 | TFC Freiburg Sense | Christoph Burri |
-| TFC Laupen | Fiona Haas |
+| TFC Laupen | Stephan Frieden |
 | TFC Luzern | Manuel Ragonesi |
 | TFC Seetal | Peter Brogli |
-| TFC Simmental | Christian Hodler |
+| TFC Simmental | Oliver Mani |
 | TFC St. Gallen | Steven Imhof |
 | TFC Thayngen | *TBD* |
 | TFC Thun | Paul Beyeler |
@@ -195,4 +195,4 @@ Die nachfolgende Tabelle zeigt Personen je Verein, welche für die Freigabe zust
 | __Gast (inkl. ITSF)__ *(International)* | Breitensport, enthält ITSF-Lizenz, __keine Rangierung__ | STS, STRT Pro, STRT | __CH-Meisterschaft__, ITSF-Turniere im __Ausland__* | Keine* | __CHF 15__ | Keine | __CHF 25__ |
 | __Gast (exkl. ITSF)__ *(National)* | Breitensport *ohne Lizenzierung*, __keine Rangierung__| STRT Pro, STRT | __CH-Meisterschaft__, ITSF-Turniere im __Ausland__*, STS |  Keine | N/A | Keine | N/A |
 
-__\*__ Für STS-Turniere mit ITSF-Status (250, 500, 750) ist eine *aktive* ITSF-Lizenz notwendig. Die Lizenztypen __*Clubmitglied (inkl. ITSF)**__ und __*Gast (inkl. ITSF)*__ erlauben dem Breitensport (gelegenheits Pub-Spieler) einen erleichterten Einstieg in die Turnierwelt und __keine__ kostenlose ITSF-Lizenz. Bei Missbrauch werden gemäss [Finanzreglement](https://static1.squarespace.com/static/6797790a8025010384cf53f2/t/68ffb77095bbce1af05a15ac/1761589104375/2025-10-23-Finanzreglement+Turnier+%26+Lizenzwesen.pdf) (3.2.1) CHF 25 in Rechnung gestellt.
+__\*__ Für STS-Turniere mit ITSF-Status (250, 500, 750) ist eine *aktive* ITSF-Lizenz notwendig. Die Lizenztypen __*Clubmitglied (inkl. ITSF)*__ und __*Gast (inkl. ITSF)*__ erlauben dem Breitensport (gelegenheits Pub-Spieler) einen erleichterten Einstieg in die Turnierwelt und __keine__ kostenlose ITSF-Lizenz. Bei Missbrauch werden gemäss [Finanzreglement](https://static1.squarespace.com/static/6797790a8025010384cf53f2/t/68ffb77095bbce1af05a15ac/1761589104375/2025-10-23-Finanzreglement+Turnier+%26+Lizenzwesen.pdf) (3.2.1) CHF 25 in Rechnung gestellt.
