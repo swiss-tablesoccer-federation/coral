@@ -1,8 +1,6 @@
-![Coral](img/coral_logo_itsf.png)
+![Coral](img/coral_logo_itsf.png){: width="480px" } ![Swiss Tablesoccer Federation Logo](img/stf-logo.png){: width="480px" }
 
 # Swiss Tablesoccer Federation (STF) – Coral
-
-![Swiss Tablesoccer Federation Logo](img/stf-logo.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;🇩🇪 [**Deutsch**](de/) &nbsp;|&nbsp; 🇫🇷 [**Français**](fr/) &nbsp;|&nbsp; 🇮🇹 [**Italiano**](it/)
 
