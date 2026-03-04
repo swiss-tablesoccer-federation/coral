@@ -37,7 +37,7 @@ Bemerkung: empfehlung, Turnieranfragen an einem Computer oder Tablet zu machen
 
 ## Tour Status
 
-Das [Reglement Individualsport v.2004-1](https://www.swisstablesoccer.ch/s/Reglement-Individualsport.pdf) (Aufgerufen am 13. Mai 2025) definiert nachfolgende Turnierkageorien - in Coral *Tour Status* genannt.
+Das [Reglement Individualsport v.2004-1](https://swisstablesoccer.ch/s/Reglement-Individualsport.pdf) (Aufgerufen am 13. Mai 2025) definiert nachfolgende Turnierkageorien - in Coral *Tour Status* genannt.
 
 | Kategorie | Beschreibung | Gebühren<sup>1</sup> | Startgeld<sup>2</sup> | Lizenzierung<sup>3</sup> | Kriterien |
 |:---|:---|:---|:---|:---|:---|

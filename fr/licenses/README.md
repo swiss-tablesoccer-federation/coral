@@ -6,7 +6,7 @@
 
 # Délivrance des licences à partir de 2026 via Coral
 
-Sur la base du nouveau [règlement financier](https://static1.squarespace.com/static/6797790a8025010384cf53f2/t/68ffb77095bbce1af05a15ac/1761589104375/2025-10-23-Finanzreglement+Turnier+%26+Lizenzwesen.pdf), de nouveaux types de licences seront introduits à partir de 2026 et mis en œuvre dans [Coral](https://app.tablesoccer.ch) comme décrit ci-dessous. La délivrance des licences court à partir du jour de l'approbation jusqu'au 31 décembre de l'année en cours et est automatiquement désactivée au changement d'année. Les joueurs peuvent choisir et demander le [type de licence](#types-de-licences-%C3%A0-partir-de-2026) approprié directement dans [Coral](https://app.tablesoccer.ch). Les frais qui en découlent seront réglés comme auparavant auprès du club dont on est membre ou invité (voir aussi [Facturation](#facturation)). 
+Sur la base du nouveau [règlement financier](https://static1.squarespace.com/static/6797790a8025010384cf53f2/t/68ffb77095bbce1af05a15ac/1761589104375/2025-10-23-Finanzreglement+Turnier+%26+Lizenzwesen.pdf), de nouveaux types de licences seront introduits à partir de 2026 et mis en œuvre dans [Coral](https://app.tablesoccer.org) comme décrit ci-dessous. La délivrance des licences court à partir du jour de l'approbation jusqu'au 31 décembre de l'année en cours et est automatiquement désactivée au changement d'année. Les joueurs peuvent choisir et demander le [type de licence](#types-de-licences-%C3%A0-partir-de-2026) approprié directement dans [Coral](https://app.tablesoccer.org). Les frais qui en découlent seront réglés comme auparavant auprès du club dont on est membre ou invité (voir aussi [Facturation](#facturation)). 
 
 
 
@@ -103,7 +103,7 @@ En approuvant une licence, le club s'engage à prendre en charge les frais de li
 
 ### \#1 Les licences sont-elles demandées directement dans Coral ?
 
-Les joueurs peuvent choisir et demander le [type de licence](#types-de-licences-%C3%A0-partir-de-2026) approprié directement dans [Coral](https://app.tablesoccer.ch).
+Les joueurs peuvent choisir et demander le [type de licence](#types-de-licences-%C3%A0-partir-de-2026) approprié directement dans [Coral](https://app.tablesoccer.org).
 
 
 ### \#2 À qui dois-je payer les frais de licence ?

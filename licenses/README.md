@@ -6,7 +6,7 @@
 
 # Lizenzierung ab 2026 über Coral
 
-Basierend auf dem neuen [Finanzreglement](https://static1.squarespace.com/static/6797790a8025010384cf53f2/t/68ffb77095bbce1af05a15ac/1761589104375/2025-10-23-Finanzreglement+Turnier+%26+Lizenzwesen.pdf) werden ab 2026 neue Lizenztypen eingeführt und wie nachfolgend beschrieben in [Coral](https://app.tablesoccer.ch) abgebildet. Die Lizenzierung läuft jeweils ab dem Tag der Freigabe bis zum 31. Dezember des laufenden Jahres und werden automatisch zum Jahreswechsel inaktiviert. Spielenden können den passenden [Lizenztypen](https://register.swisstablesoccer.ch/licenses#lizenztypen-ab-2026) direkt in [Coral](https://app.tablesoccer.ch) selber wählen und beantragen. Die dadurch anfallenden Gebühren werden wie bisher beim jenem Verein begleichen, welchem man als Mitglied oder Gast angehört (siehe auch [Abrechnung](https://register.swisstablesoccer.ch/#abrechnung)). 
+Basierend auf dem neuen [Finanzreglement](https://static1.squarespace.com/static/6797790a8025010384cf53f2/t/68ffb77095bbce1af05a15ac/1761589104375/2025-10-23-Finanzreglement+Turnier+%26+Lizenzwesen.pdf) werden ab 2026 neue Lizenztypen eingeführt und wie nachfolgend beschrieben in [Coral](https://app.tablesoccer.org) abgebildet. Die Lizenzierung läuft jeweils ab dem Tag der Freigabe bis zum 31. Dezember des laufenden Jahres und werden automatisch zum Jahreswechsel inaktiviert. Spielenden können den passenden [Lizenztypen](https://register.swisstablesoccer.ch/licenses#lizenztypen-ab-2026) direkt in [Coral](https://app.tablesoccer.org) selber wählen und beantragen. Die dadurch anfallenden Gebühren werden wie bisher beim jenem Verein begleichen, welchem man als Mitglied oder Gast angehört (siehe auch [Abrechnung](https://register.swisstablesoccer.ch/#abrechnung)). 
 
 
 
@@ -23,7 +23,7 @@ Basierend auf dem neuen [Finanzreglement](https://static1.squarespace.com/static
     * [\#1 Werden Lizenzen direkt in Coral beantragt?](https://register.swisstablesoccer.ch/licenses#1-werden-lizenzen-direkt-in-coral-beantragt)
     * [\#2 An wen muss ich Lizenzkosten bezahlen?](https://register.swisstablesoccer.ch/licenses/#2-an-wen-muss-ich-lizenzkosten-bezahlen)
     * [\#3 Kann ich die Jahreslizenz auch unter dem Jahr lösen?](https://register.swisstablesoccer.ch/licenses/#3-kann-ich-die-jahreslizenz-auch-unter-dem-jahr-lösen)
-    * [\#4 Kann ich meine Lizenz upgraden?](https://register.swisstablesocceVr.ch/licenses/#4-kann-ich-meine-lizenz-upgraden)
+    * [\#4 Kann ich meine Lizenz upgraden?](https://register.swisstablesoccer.ch/licenses/#4-kann-ich-meine-lizenz-upgraden)
     * [\#5 Welche Lizenz passt zu mir?](https://register.swisstablesoccer.ch/licenses/#5-welche-lizenz-passt-zu-mir)
     * [\#6 Wer kann für meinen Verein Lizenzen freigeben?](https://register.swisstablesoccer.ch/licenses/#6-wer-kann-für-meinen-verein-lizenzen-freigeben)
     * [\#7 Big Picture Lizenzierung](https://register.swisstablesoccer.ch/licenses/#7-big-picture-lizenzierung-2026)
@@ -65,7 +65,7 @@ __Erstmaliges beantragen einer Lizenz__ siehe [Einem Club beitreten](https://reg
 
 __Erneuern einer Lizenz__
 
-Die nachfolgenden Bilder zeigen, wie eine Lizenz erneuert werden kann. Im Beispiel wird die *Jahreslizenz* ausgewählt. Welcher Lizenztyp für wen passend ist kann der Tabelle oben oder dem [FAQ](https://register.swisstablesocceVr.ch/licenses/#4-kann-ich-meine-lizenz-upgraden) entnommen werden.
+Die nachfolgenden Bilder zeigen, wie eine Lizenz erneuert werden kann. Im Beispiel wird die *Jahreslizenz* ausgewählt. Welcher Lizenztyp für wen passend ist kann der Tabelle oben oder dem [FAQ](https://register.swisstablesoccer.ch/licenses/#4-kann-ich-meine-lizenz-upgraden) entnommen werden.
 
 ![Renew](img/renew-01.png){: width="320px" }
 ![Chose](img/renew-02.png){: width="320px" }
@@ -104,7 +104,7 @@ Mit der Freigabe einer Lizenz, verpflichtet sich der Verein, entstehende Lizenzk
 
 ### \#1 Werden Lizenzen direkt in Coral beantragt?
 
-Spielenden könnn den passenden [Lizenztypen](https://register.swisstablesoccer.ch/licenses#lizenztypen-ab-2026) direkt in [Coral](https://app.tablesoccer.ch) selber wählen und beantragen.
+Spielenden könnn den passenden [Lizenztypen](https://register.swisstablesoccer.ch/licenses#lizenztypen-ab-2026) direkt in [Coral](https://app.tablesoccer.org) selber wählen und beantragen.
 
 
 ### \#2 An wen muss ich Lizenzkosten bezahlen?
