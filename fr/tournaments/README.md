@@ -37,7 +37,7 @@ Remarque : il est recommandé de faire les demandes de tournoi sur un ordinateur
 
 ## Statut Tour
 
-Le [Règlement sport individuel v.2004-1](https://www.swisstablesoccer.ch/s/Reglement-Individualsport.pdf) (consulté le 13 mai 2025) définit les catégories de tournois suivantes - appelées *Tour Status* dans Coral.
+Le [Règlement sport individuel v.2004-1](https://swisstablesoccer.ch/s/Reglement-Individualsport.pdf) (consulté le 13 mai 2025) définit les catégories de tournois suivantes - appelées *Tour Status* dans Coral.
 
 | Catégorie | Description | Frais<sup>1</sup> | Droit d'entrée<sup>2</sup> | Délivrance de licences<sup>3</sup> | Critères |
 |:---|:---|:---|:---|:---|:---|
