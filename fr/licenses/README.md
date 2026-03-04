@@ -2,7 +2,7 @@
 
 ---
 
-![Coral](../../img/coral_logo_itsf.png)
+![Coral](img/coral_logo_itsf.png)
 
 # Délivrance des licences à partir de 2026 via Coral
 
@@ -66,9 +66,9 @@ __Renouveler une licence__
 
 Les images suivantes montrent comment une licence peut être renouvelée. Dans l'exemple, la *licence annuelle* est sélectionnée. Le tableau ci-dessus ou la [FAQ](https://register.swisstablesoccer.ch/licenses/#4-kann-ich-meine-lizenz-upgraden) indiquent quel type de licence convient à qui.
 
-![Renew](../../img/renew-01.png){: width="320px" }
-![Chose](../../img/renew-02.png){: width="320px" }
-![Agree](../../img/renew-03.png){: width="320px" }
+![Renew](img/renew-01.png){: width="320px" }
+![Chose](img/renew-02.png){: width="320px" }
+![Agree](img/renew-03.png){: width="320px" }
 
 ### Approbation par les clubs
 
@@ -76,18 +76,18 @@ La STF a désigné un _gestionnaire d'organisation_ pour chaque club membre. Cel
 
 1. Contrôle du type de licence choisi. Le type de licence correspond-il à la personne ?
 
-    ![Messages](../../img/check-01.png){: width="320px" }
-    ![Message Center](../../img/check-02.png){: width="320px" }
-    ![Check License](../../img/check-03.png){: width="320px" }
-    ![Check License](../../img/check-04.png){: width="320px" }
+    ![Messages](img/check-01.png){: width="320px" }
+    ![Message Center](img/check-02.png){: width="320px" }
+    ![Check License](img/check-03.png){: width="320px" }
+    ![Check License](img/check-04.png){: width="320px" }
 
 2. En cas de doute, se renseigner auprès de la personne et adapter le type de licence avant l'approbation. 
 
-    ![Change License](../../img/check-06.png){: width="320px" }
+    ![Change License](img/check-06.png){: width="320px" }
 
 3. _Approbation_ ou _refus_ de la demande.
 
-    ![Approve](../../img/check-05.png){: width="320px" }
+    ![Approve](img/check-05.png){: width="320px" }
 
 
 
