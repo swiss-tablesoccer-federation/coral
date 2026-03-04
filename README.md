@@ -11,18 +11,18 @@
 ## Inhalt / Table des matières / Indice
 
 ### 🇩🇪 Deutsch
-- [Register](de/)
+- [Register](de/register/)
 - [Lizenzen](de/licenses/)
 - [Turniere](de/tournaments/)
 - [Clubs](de/club/)
 
 ### 🇫🇷 Français
-- [Registre](fr/)
+- [Registre](fr/register/)
 - [Licences](fr/licenses/)
 - [Tournois](fr/tournaments/)
 
 ### 🇮🇹 Italiano
-- [Registro](it/)
+- [Registro](it/register/)
 - [Licenze](it/licenses/)
 - [Tornei](it/tournaments/)
 
