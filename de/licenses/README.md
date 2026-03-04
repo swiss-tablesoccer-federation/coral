@@ -1,4 +1,4 @@
-🌐 **Sprache / Langue:** **Deutsch** | [Français](../../fr/licenses/)
+🌐 **Sprache / Langue / Lingua:** **Deutsch** | [Français](../../fr/licenses/) | [Italiano](../../it/licenses/)
 
 ---
 
