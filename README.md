@@ -1,4 +1,4 @@
-![Coral](img/coral_logo_itsf.png){: height="240px" } ![Swiss Tablesoccer Federation Logo](img/stf-logo.png){: height="240px" }
+![Coral](img/coral_logo_itsf.png){: height="192px" } ![Swiss Tablesoccer Federation Logo](img/stf-logo.png){: height="192px" }
 
 # Swiss Tablesoccer Federation (STF) – Coral
 
@@ -26,8 +26,6 @@
 
 ### Links
 
-| | |
-|:---|:---|
-| **Coral** | [app.tablesoccer.org](https://app.tablesoccer.org) |
-| **Swiss Tablesoccer Federation (STF)** | [swisstablesoccer.ch](https://swisstablesoccer.ch) |
-| **Referee Program** | [referee.swisstablesoccer.ch](https://referee.swisstablesoccer.ch) |
+- **Coral**: [app.tablesoccer.org](https://app.tablesoccer.org)
+- **Swiss Tablesoccer Federation (STF)**: [swisstablesoccer.ch](https://swisstablesoccer.ch)
+- **Referee Program**: [referee.swisstablesoccer.ch](https://referee.swisstablesoccer.ch)
