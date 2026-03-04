@@ -1,25 +1,25 @@
-![Coral](img/coral_logo_itsf.png){: width="480px" } ![Swiss Tablesoccer Federation Logo](img/stf-logo.png){: width="480px" }
+![Coral](img/coral_logo_itsf.png){: height="240px" } ![Swiss Tablesoccer Federation Logo](img/stf-logo.png){: height="240px" }
 
 # Swiss Tablesoccer Federation (STF) – Coral
 
-&nbsp;&nbsp;&nbsp;&nbsp;🇩🇪 [**Deutsch**](de/) &nbsp;|&nbsp; 🇫🇷 [**Français**](fr/) &nbsp;|&nbsp; 🇮🇹 [**Italiano**](it/)
+&nbsp;&nbsp;&nbsp;&nbsp;🇩🇪 [**Deutsch**](#deutsch) &nbsp;|&nbsp; 🇫🇷 [**Français**](#francais) &nbsp;|&nbsp; 🇮🇹 [**Italiano**](#italiano)
 
 ---
 
 ## Inhalt / Table des matières / Indice
 
-### 🇩🇪 Deutsch
+### 🇩🇪 Deutsch {#deutsch}
 - [Register](de/register/)
 - [Lizenzen](de/licenses/)
 - [Turniere](de/tournaments/)
 - [Clubs](de/club/)
 
-### 🇫🇷 Français
+### 🇫🇷 Français {#francais}
 - [Registre](fr/register/)
 - [Licences](fr/licenses/)
 - [Tournois](fr/tournaments/)
 
-### 🇮🇹 Italiano
+### 🇮🇹 Italiano {#italiano}
 - [Registro](it/register/)
 - [Licenze](it/licenses/)
 - [Tornei](it/tournaments/)
