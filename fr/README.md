@@ -1,4 +1,4 @@
-🌐 **Langue / Sprache:** [Deutsch](../de/) | **Français**
+🌐 **Langue / Sprache / Lingua:** [Deutsch](../de/) | **Français** | [Italiano](../it/)
 
 ---
 

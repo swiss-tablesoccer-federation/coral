@@ -1,4 +1,4 @@
-🌐 **Sprache / Langue:** **Deutsch** | [Français](../../fr/tournaments/)
+🌐 **Sprache / Langue / Lingua:** **Deutsch** | [Français](../../fr/tournaments/) | [Italiano](../../it/tournaments/)
 
 ---
 
