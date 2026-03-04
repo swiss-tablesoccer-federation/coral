@@ -2,17 +2,25 @@
 
 # Swiss Tablesoccer Federation (STF) – Coral
 
-🌐 **Sprache / Langue / Language:**
+![Swiss Tablesoccer Federation Logo](img/stf-logo.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;🇩🇪 [**Deutsch**](de/) &nbsp;|&nbsp; 🇫🇷 [**Français**](fr/)
+&nbsp;&nbsp;&nbsp;&nbsp;🇩🇪 [**Deutsch**](de/) &nbsp;|&nbsp; 🇫🇷 [**Français**](fr/) &nbsp;|&nbsp; 🇮🇹 [**Italiano**](it/)
 
 ---
 
-## Inhalt / Table des matières
+## Inhalt / Table des matières / Indice
 
-| | 🇩🇪 Deutsch | 🇫🇷 Français |
-|:---|:---|:---|
-| **Register** | [de/](de/) | [fr/](fr/) |
-| **Lizenzen / Licences** | [de/licenses/](de/licenses/) | [fr/licenses/](fr/licenses/) |
-| **Turniere / Tournois** | [de/tournaments/](de/tournaments/) | [fr/tournaments/](fr/tournaments/) |
-| **Clubs** | [de/club/](de/club/) | – |
+| | 🇩🇪 Deutsch | 🇫🇷 Français | 🇮🇹 Italiano |
+|:---|:---|:---|:---|
+| **Register** | [de/](de/) | [fr/](fr/) | [it/](it/) |
+| **Lizenzen / Licences / Licenze** | [de/licenses/](de/licenses/) | [fr/licenses/](fr/licenses/) | [it/licenses/](it/licenses/) |
+| **Turniere / Tournois / Tornei** | [de/tournaments/](de/tournaments/) | [fr/tournaments/](fr/tournaments/) | [it/tournaments/](it/tournaments/) |
+| **Clubs** | [de/club/](de/club/) | – | – |
+
+### Links
+
+| | |
+|:---|:---|
+| **Coral** | [app.tablesoccer.org](https://app.tablesoccer.org) |
+| **Swiss Tablesoccer Federation (STF)** | [swisstablesoccer.ch](https://swisstablesoccer.ch) |
+| **Referee Program** | [referee.swisstablesoccer.ch](https://referee.swisstablesoccer.ch) |
