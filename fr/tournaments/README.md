@@ -11,26 +11,26 @@ Chère communauté du baby-foot,
 le passage au nouveau logiciel de tournoi *[Coral - https://app.tablesoccer.org](https://app.tablesoccer.org)* au 1er janvier 2025 nous permet de numériser beaucoup de choses et donc de minimiser simultanément la charge administrative pour toutes les parties concernées. Ainsi, l'organisation administrative autour de la gestion des tournois est également simplifiée et centralisée - les formulaires Google dispersés, les feuilles Excel et les échanges d'e-mails pourront à l'avenir être largement évités. 
 
 Les changements les plus importants en bref :
-- L'inscription à tous les tournois, tant STRT que STS, se fait désormais via Coral *→ voir [Inscription au tournoi](https://register.swisstablesoccer.ch/tournaments/#anmeldung)*
-- Les critères d'attribution du statut STRT ont été rédigés et publiés *→ voir [Critères d'acceptation](https://register.swisstablesoccer.ch/tournaments/#annahmekriterien)*
-- __La licence journalière (CHF 3) pour les tournois régionaux (STRT) a été supprimée__. À la place, un forfait de CHF 20 par STRT a été introduit *→ voir [Délivrance des licences STRT](https://register.swisstablesoccer.ch/tournaments/#lizenzierung-strt)*
+- L'inscription à tous les tournois, tant STRT que STS, se fait désormais via Coral *→ voir [Inscription au tournoi](#inscription)*
+- Les critères d'attribution du statut STRT ont été rédigés et publiés *→ voir [Critères d'acceptation](#crit%C3%A8res-dacceptation-strt)*
+- __La licence journalière (CHF 3) pour les tournois régionaux (STRT) a été supprimée__. À la place, un forfait de CHF 20 par STRT a été introduit *→ voir [Délivrance des licences STRT](#d%C3%A9livrance-des-licences-strt)*
 - Plus besoin de décompte ni de soumission manuelle des résultats
 - Plus besoin de logiciel sportif préinstallé, Coral fonctionne entièrement comme application web
 
 ## Table des matières
 
-- [Table des matières](https://register.swisstablesoccer.ch/tournaments/#inhaltsverzeichnis)
-- [Statut Tour](https://register.swisstablesoccer.ch/tournaments/#tour-status)
-    - [Critères d'acceptation STRT](https://register.swisstablesoccer.ch/tournaments/#annahmekriterien-strt)
-    - [Critères d'acceptation STS](https://register.swisstablesoccer.ch/tournaments/#annahmekriterien-sts)
-    - [Critères d'acceptation STS avec statut ITSF](https://register.swisstablesoccer.ch/tournaments/#annahmekriterien-sts-mit-itsf-status)
-- [Délivrance des licences STRT](https://register.swisstablesoccer.ch/tournaments/#lizenzierung-strt)
-- [Gestion des tournois](https://register.swisstablesoccer.ch/tournaments/#turnierabwicklung)
-    - [Inscription](https://register.swisstablesoccer.ch/tournaments/#anmeldung)
-    - [Déroulement](https://register.swisstablesoccer.ch/tournaments/#durchf%C3%BChrung)
-    - [Clôture](https://register.swisstablesoccer.ch/tournaments/#abschluss)
-    - [Modèles](https://register.swisstablesoccer.ch/tournaments/#vorlagen)
-- [Foire aux questions (FAQ)](https://register.swisstablesoccer.ch/tournaments/#faq)
+- [Table des matières](#table-des-mati%C3%A8res)
+- [Statut Tour](#statut-tour)
+    - [Critères d'acceptation STRT](#crit%C3%A8res-dacceptation-strt)
+    - [Critères d'acceptation STS](#crit%C3%A8res-dacceptation-sts)
+    - [Critères d'acceptation STS avec statut ITSF](#crit%C3%A8res-dacceptation-sts-avec-statut-itsf)
+- [Délivrance des licences STRT](#d%C3%A9livrance-des-licences-strt)
+- [Gestion des tournois](#gestion-des-tournois)
+    - [Inscription](#inscription)
+    - [Déroulement](#d%C3%A9roulement)
+    - [Clôture](#cl%C3%B4ture)
+    - [Modèles](#mod%C3%A8les)
+- [Foire aux questions (FAQ)](#faq)
 
 Remarque : il est recommandé de faire les demandes de tournoi sur un ordinateur ou une tablette
 
@@ -41,16 +41,16 @@ Le [Règlement sport individuel v.2004-1](https://www.swisstablesoccer.ch/s/Regl
 
 | Catégorie | Description | Frais<sup>1</sup> | Droit d'entrée<sup>2</sup> | Délivrance de licences<sup>3</sup> | Critères |
 |:---|:---|:---|:---|:---|:---|
-| __STRT__ | Swiss Tablesoccer Regio Tour | CHF 20 | - | Aucune |[Critères d'acceptation STRT](https://register.swisstablesoccer.ch/tournaments/#annahmekriterien-strt) |
-| __STS__ | Swiss Tablesoccer Series | - | 20% | Licence STF | [Critères d'acceptation STS](https://register.swisstablesoccer.ch/tournaments/#annahmekriterien-sts) |
-| __STS WT 250__ | Swiss Tablesoccer Series avec ITSF World Tour 250| CHF 150 | 20% | Licence ITSF & STF |[Critères d'acceptation STS avec statut ITSF](https://register.swisstablesoccer.ch/tournaments/#annahmekriterien-sts-mit-itsf-status) |
-| __STS WT 500__ | Swiss Tablesoccer Series avec ITSF World Tour 500| CHF 300 | 20% | Licence ITSF & STF | [Critères d'acceptation STS avec statut ITSF](https://register.swisstablesoccer.ch/tournaments/#annahmekriterien-sts-mit-itsf-status) |
+| __STRT__ | Swiss Tablesoccer Regio Tour | CHF 20 | - | Aucune |[Critères d'acceptation STRT](#crit%C3%A8res-dacceptation-strt) |
+| __STS__ | Swiss Tablesoccer Series | - | 20% | Licence STF | [Critères d'acceptation STS](#crit%C3%A8res-dacceptation-sts) |
+| __STS WT 250__ | Swiss Tablesoccer Series avec ITSF World Tour 250| CHF 150 | 20% | Licence ITSF & STF |[Critères d'acceptation STS avec statut ITSF](#crit%C3%A8res-dacceptation-sts-avec-statut-itsf) |
+| __STS WT 500__ | Swiss Tablesoccer Series avec ITSF World Tour 500| CHF 300 | 20% | Licence ITSF & STF | [Critères d'acceptation STS avec statut ITSF](#crit%C3%A8res-dacceptation-sts-avec-statut-itsf) |
 
 *<sup>1</sup> Les coûts pour le statut ITSF sont transférés à l'organisateur. Pour le STRT, un forfait remplace les licences journalières. Pour les STS sans statut ITSF, aucun frais n'est appliqué.*
 
 *<sup>2</sup> La répartition 60-20-20 (prix, organisateur, pot championnat) du droit d'entrée est réglée dans le règlement sport individuel. Pour le STRT, l'organisateur dispose de la répartition du droit d'entrée.*
 
-*<sup>3</sup> La STF propose des licences annuelles et journalières. L'ITSF propose uniquement des licences annuelles (€10). Un aperçu des différents types de licences se trouve [ici](https://register.swisstablesoccer.ch/#9-welche-lizenztypen-gibt-es-in-coral-und-wie-bilden-sie-sich-auf-die-bekannten-stf-strukturen-ab).*
+*<sup>3</sup> La STF propose des licences annuelles et journalières. L'ITSF propose uniquement des licences annuelles (€10). Un aperçu des différents types de licences se trouve [ici](../#9-quels-types-de-licences-existent-dans-coral-et-comment-correspondent-ils-aux-structures-stf-connues).*
 
 
 

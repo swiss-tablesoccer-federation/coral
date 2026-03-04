@@ -20,25 +20,25 @@ La STF travaille à l'amélioration du flux et du contenu des informations conce
 
 ## Table des matières
 
-- [Table des matières](https://register.swisstablesoccer.ch/#inhaltsverzeichnis)
-- [Comptes Coral](https://register.swisstablesoccer.ch/#coral-accounts)
-- [S'inscrire aux tournois](https://register.swisstablesoccer.ch/#anmelden-f%C3%BCr-turniere)
-- [Rejoindre un club](https://register.swisstablesoccer.ch/#einem-club-beitreten)
-- [Pendant un tournoi](https://register.swisstablesoccer.ch/#w%C3%A4hrend-eines-turniers)
-- [Publier un tournoi](https://register.swisstablesoccer.ch/tournaments)
-- [Foire aux questions (FAQ)](https://register.swisstablesoccer.ch/#faq)
-    * [\#1 Je ne peux pas m'inscrire aux compétitions. Les disciplines individuelles sont grisées](https://register.swisstablesoccer.ch/#1-ich-kann-mich-nicht-f%C3%BCr-competitions-registrieren-die-einzelnen-disziplinen-sind-ausgegraut)
-    * [\#1.1 Je ne peux pas sélectionner mon/ma partenaire de jeu lors de l'inscription.](https://register.swisstablesoccer.ch/#11-ich-kann-bei-der-registrierung-meinen-spielpartnerin-nicht-ausw%C3%A4hlen)
-    * [\#2 Coral n'affiche qu'une surface blanche sur le PC après la connexion](https://register.swisstablesoccer.ch/#2-coral-zeigt-nach-dem-login-auf-dem-pc-nur-eine-weisse-oberfl%C3%A4che-an)
-    * [\#3.1 Comment puis-je installer Coral en tant qu'application web ?](https://register.swisstablesoccer.ch/#31-wie-kann-ich-coral-als-web-app-installieren)
-    * [\#3.2 Les notifications push ne fonctionnent pas sur mon téléphone](https://register.swisstablesoccer.ch/#32-push-benachrichtigungen-funktionieren-nicht-auf-meinem-handy)
-    * [\#4 Le tableau ne m'affiche pas le Buchholz](https://register.swisstablesoccer.ch/#4-die-tabelle-zeigt-mir-das-buchholz-nicht-an)
-    * [\#5 Je me suis inscrit(e) mais mon statut est toujours sur *pending*. Pourquoi ?](https://register.swisstablesoccer.ch/#5-ich-habe-mich-angemeldet-aber-mein-status-ist-noch-auf-pending-warum)
-    * [\#6 Comment comprendre les frais qui me sont affichés ?](https://register.swisstablesoccer.ch/#6-wie-sind-die-geb%C3%BChren-welche-mir-angezeigt-werden-zu-verstehen)
-    * [\#7 Où puis-je maintenant trouver le règlement du tournoi ?](https://register.swisstablesoccer.ch/#7-wo-finde-ich-neu-die-turnierausschreibung)
-    * [\#8 Wi-Fi aux tournois](https://register.swisstablesoccer.ch/#8-wlan-an-turniere)
-    * [\#9 Quels types de licences existent dans Coral et comment correspondent-ils aux structures STF connues ?](https://register.swisstablesoccer.ch/#10-ich-erf%C3%BClle-die-anforderungen-f%C3%BCr-itsf-turniere-nicht)
-    * [\#10 Je ne remplis pas les conditions requises pour les tournois ITSF](https://register.swisstablesoccer.ch/#10-ich-erf%C3%BClle-die-anforderungen-f%C3%BCr-itsf-turniere-nicht)
+- [Table des matières](#table-des-mati%C3%A8res)
+- [Comptes Coral](#comptes-coral)
+- [S'inscrire aux tournois](#sinscrire-aux-tournois)
+- [Rejoindre un club](#rejoindre-un-club)
+- [Pendant un tournoi](#pendant-un-tournoi)
+- [Publier un tournoi](tournaments/)
+- [Foire aux questions (FAQ)](#faq)
+    * [\#1 Je ne peux pas m'inscrire aux compétitions. Les disciplines individuelles sont grisées](#1-je-ne-peux-pas-minscrire-aux-comp%C3%A9titions-les-disciplines-individuelles-sont-gris%C3%A9es)
+    * [\#1.1 Je ne peux pas sélectionner mon/ma partenaire de jeu lors de l'inscription.](#11-je-ne-peux-pas-s%C3%A9lectionner-monma-partenaire-de-jeu-lors-de-linscription)
+    * [\#2 Coral n'affiche qu'une surface blanche sur le PC après la connexion](#2-coral-naffiche-quune-surface-blanche-sur-le-pc-apr%C3%A8s-la-connexion)
+    * [\#3.1 Comment puis-je installer Coral en tant qu'application web ?](#31-comment-puis-je-installer-coral-en-tant-quapplication-web)
+    * [\#3.2 Les notifications push ne fonctionnent pas sur mon téléphone](#32-les-notifications-push-ne-fonctionnent-pas-sur-mon-t%C3%A9l%C3%A9phone)
+    * [\#4 Le tableau ne m'affiche pas le Buchholz](#4-le-tableau-ne-maffiche-pas-le-buchholz)
+    * [\#5 Je me suis inscrit(e) mais mon statut est toujours sur *pending*. Pourquoi ?](#5-je-me-suis-inscrite-mais-mon-statut-est-toujours-sur-pending-pourquoi)
+    * [\#6 Comment comprendre les frais qui me sont affichés ?](#6-comment-comprendre-les-frais-qui-me-sont-affich%C3%A9s)
+    * [\#7 Où puis-je maintenant trouver le règlement du tournoi ?](#7-o%C3%B9-puis-je-maintenant-trouver-le-r%C3%A8glement-du-tournoi)
+    * [\#8 Wi-Fi aux tournois](#8-wi-fi-aux-tournois)
+    * [\#9 Quels types de licences existent dans Coral et comment correspondent-ils aux structures STF connues ?](#9-quels-types-de-licences-existent-dans-coral-et-comment-correspondent-ils-aux-structures-stf-connues)
+    * [\#10 Je ne remplis pas les conditions requises pour les tournois ITSF](#10-je-ne-remplis-pas-les-conditions-requises-pour-les-tournois-itsf)
 
 ## Comptes Coral
 
@@ -53,7 +53,7 @@ Si tu es certain(e) de participer pour la première fois à un tournoi ITSF, tu 
 
 ## S'inscrire aux tournois
 
-Pour pouvoir t'inscrire à des tournois, ton statut doit d'abord être sur *Active*. Si ton statut est sur *inactive* (voir les captures d'écran ci-dessous), tu dois d'abord l'activer. Pour ce faire, clique sur *renew* si tu es déjà membre d'un club, ou rejoins simplement ton club en cliquant sur *Join Club* (voir [Rejoindre un club](https://register.swisstablesoccer.ch/#einem-club-beitreten)). Dans les deux cas, sélectionne l'[adhésion](#) appropriée.
+Pour pouvoir t'inscrire à des tournois, ton statut doit d'abord être sur *Active*. Si ton statut est sur *inactive* (voir les captures d'écran ci-dessous), tu dois d'abord l'activer. Pour ce faire, clique sur *renew* si tu es déjà membre d'un club, ou rejoins simplement ton club en cliquant sur *Join Club* (voir [Rejoindre un club](#rejoindre-un-club)). Dans les deux cas, sélectionne l'[adhésion](#) appropriée.
 
 - *TODO Adhésion/Licences*
 
@@ -62,7 +62,7 @@ Pour pouvoir t'inscrire à des tournois, ton statut doit d'abord être sur *Acti
 
 ## ⁠Rejoindre un club
 
-Pour rejoindre un club, tu peux sélectionner *Profile > Join Club*. Ensuite, recherche ton association dans le champ de recherche, sélectionne l'adhésion appropriée et remplis les informations requises. Choisis l'adhésion selon les [types de licences à partir de 2026](https://register.swisstablesoccer.ch/licences#lizenztypen-ab-2026).
+Pour rejoindre un club, tu peux sélectionner *Profile > Join Club*. Ensuite, recherche ton association dans le champ de recherche, sélectionne l'adhésion appropriée et remplis les informations requises. Choisis l'adhésion selon les [types de licences à partir de 2026](licenses/#types-de-licences-%C3%A0-partir-de-2026).
 
 
 ![Join Club](../img/join-club.jpg){: width="320px" }
@@ -129,7 +129,7 @@ Pour l'instant, tu peux encore ignorer les frais, c'est encore configuré à tit
 - MX, RD -> CHF 10
 - CHF 15 pour une licence journalière, si pas de licence annuelle 
 
-Suis également les instructions de paiement anticipé selon le [règlement du tournoi](https://register.swisstablesoccer.ch/#7-wo-finde-ich-neu-die-turnierausschreibung). Celui-ci se trouve désormais aussi dans Coral.
+Suis également les instructions de paiement anticipé selon le [règlement du tournoi](#7-o%C3%B9-puis-je-maintenant-trouver-le-r%C3%A8glement-du-tournoi). Celui-ci se trouve désormais aussi dans Coral.
 
 ### \#7 Où puis-je maintenant trouver le règlement du tournoi ?
 
