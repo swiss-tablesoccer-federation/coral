@@ -10,12 +10,21 @@
 
 ## Inhalt / Table des matières / Indice
 
-| | 🇩🇪 Deutsch | 🇫🇷 Français | 🇮🇹 Italiano |
-|:---|:---|:---|:---|
-| **Register** | [de/](de/) | [fr/](fr/) | [it/](it/) |
-| **Lizenzen / Licences / Licenze** | [de/licenses/](de/licenses/) | [fr/licenses/](fr/licenses/) | [it/licenses/](it/licenses/) |
-| **Turniere / Tournois / Tornei** | [de/tournaments/](de/tournaments/) | [fr/tournaments/](fr/tournaments/) | [it/tournaments/](it/tournaments/) |
-| **Clubs** | [de/club/](de/club/) | – | – |
+### 🇩🇪 Deutsch
+- [Register](de/)
+- [Lizenzen](de/licenses/)
+- [Turniere](de/tournaments/)
+- [Clubs](de/club/)
+
+### 🇫🇷 Français
+- [Registre](fr/)
+- [Licences](fr/licenses/)
+- [Tournois](fr/tournaments/)
+
+### 🇮🇹 Italiano
+- [Registro](it/)
+- [Licenze](it/licenses/)
+- [Tornei](it/tournaments/)
 
 ### Links
 
