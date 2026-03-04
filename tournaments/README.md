@@ -1,3 +1,7 @@
+🌐 **Sprache / Langue:** **Deutsch** | [Français](../fr/tournaments/)
+
+---
+
 ![Swiss Tablesoccer Series](img/sts-logo.jpeg){: width="960px" } 
 
 # Swiss Tablesoccer Federation (STF) goes Coral
