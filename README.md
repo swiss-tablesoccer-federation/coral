@@ -1,3 +1,7 @@
+🌐 **Sprache / Langue:** **Deutsch** | [Français](fr/)
+
+---
+
 ![Coral](img/coral_logo_itsf.png)
 
 # Swiss Tablesoccer Federation (STF) goes Coral

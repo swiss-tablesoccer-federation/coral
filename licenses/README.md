@@ -1,3 +1,7 @@
+🌐 **Sprache / Langue:** **Deutsch** | [Français](../fr/licenses/)
+
+---
+
 ![Coral](img/coral_logo_itsf.png)
 
 # Lizenzierung ab 2026 über Coral
