@@ -19,9 +19,7 @@ This page provides copy-pasteable code snippets for all three T&C sections. Each
 ## T&C for Member Associations
 
 ```
---- DE ---
-
-AGB für Mitgliederverbände
+__AGB für Mitgliederverbände (DE)__
 
 Die nachfolgenden Allgemeinen Geschäftsbedingungen regeln die Rechte und Pflichten der Mitgliederverbände gegenüber der Swiss Tablesoccer Federation (STF).
 
@@ -44,9 +42,7 @@ Die nachfolgenden Allgemeinen Geschäftsbedingungen regeln die Rechte und Pflich
 9. Bei Verstössen gegen diese AGB oder die Reglemente der STF behält sich die STF vor, entsprechende Massnahmen gemäss den geltenden Statuten und Reglementen zu ergreifen, einschliesslich des Entzugs der Mitgliedschaft.
 
 
---- FR ---
-
-CG pour les associations membres
+__CG pour les associations membres (FR)__
 
 Les conditions générales suivantes régissent les droits et obligations des associations membres envers la Swiss Tablesoccer Federation (STF).
 
@@ -69,9 +65,7 @@ Les conditions générales suivantes régissent les droits et obligations des as
 9. En cas de violation des présentes CG ou des règlements de la STF, celle-ci se réserve le droit de prendre les mesures appropriées conformément aux statuts et règlements en vigueur, y compris le retrait de la qualité de membre.
 
 
---- IT ---
-
-CG per le associazioni membri
+__CG per le associazioni membri (IT)__
 
 Le seguenti condizioni generali disciplinano i diritti e gli obblighi delle associazioni membri nei confronti della Swiss Tablesoccer Federation (STF).
 
@@ -94,9 +88,7 @@ Le seguenti condizioni generali disciplinano i diritti e gli obblighi delle asso
 9. In caso di violazione delle presenti CG o dei regolamenti della STF, quest'ultima si riserva il diritto di adottare le misure appropriate conformemente agli statuti e ai regolamenti vigenti, inclusa la revoca della qualità di membro.
 
 
---- EN ---
-
-T&C for Member Associations
+__T&C for Member Associations (EN)__
 
 The following General Terms and Conditions govern the rights and obligations of member associations towards the Swiss Tablesoccer Federation (STF).
 
@@ -124,9 +116,7 @@ The following General Terms and Conditions govern the rights and obligations of 
 ## T&C for Players
 
 ```
---- DE ---
-
-AGB für Spielende
+__AGB für Spielende (DE)__
 
 Mit der Registrierung in Coral (https://app.tablesoccer.org) und der Teilnahme an Turnieren der STF akzeptieren Spielende die nachfolgenden Allgemeinen Geschäftsbedingungen.
 
@@ -151,9 +141,7 @@ Mit der Registrierung in Coral (https://app.tablesoccer.org) und der Teilnahme a
 10. Bei Verstössen gegen diese AGB oder die Reglemente der STF behält sich die STF vor, entsprechende Massnahmen zu ergreifen, einschliesslich des vorübergehenden oder dauerhaften Ausschlusses vom Turnierbetrieb.
 
 
---- FR ---
-
-CG pour les joueurs
+__CG pour les joueurs (FR)__
 
 En s'inscrivant dans Coral (https://app.tablesoccer.org) et en participant aux tournois de la STF, les joueurs acceptent les conditions générales suivantes.
 
@@ -178,9 +166,7 @@ En s'inscrivant dans Coral (https://app.tablesoccer.org) et en participant aux t
 10. En cas de violation des présentes CG ou des règlements de la STF, celle-ci se réserve le droit de prendre les mesures appropriées, y compris l'exclusion temporaire ou permanente du circuit des tournois.
 
 
---- IT ---
-
-CG per i giocatori
+__CG per i giocatori (IT)__
 
 Con la registrazione in Coral (https://app.tablesoccer.org) e la partecipazione ai tornei della STF, i giocatori accettano le seguenti condizioni generali.
 
@@ -205,9 +191,7 @@ Con la registrazione in Coral (https://app.tablesoccer.org) e la partecipazione 
 10. In caso di violazione delle presenti CG o dei regolamenti della STF, quest'ultima si riserva il diritto di adottare le misure appropriate, inclusa l'esclusione temporanea o permanente dal circuito dei tornei.
 
 
---- EN ---
-
-T&C for Players
+__T&C for Players (EN)__
 
 By registering in Coral (https://app.tablesoccer.org) and participating in STF tournaments, players accept the following General Terms and Conditions.
 
@@ -237,9 +221,7 @@ By registering in Coral (https://app.tablesoccer.org) and participating in STF t
 ## T&C for Tournaments
 
 ```
---- DE ---
-
-AGB für Turniere
+__AGB für Turniere (DE)__
 
 Mit der Anmeldung zu einem Turnier der STF akzeptieren Spielende die nachfolgenden Allgemeinen Geschäftsbedingungen für Turniere.
 
@@ -249,28 +231,24 @@ Mit der Anmeldung zu einem Turnier der STF akzeptieren Spielende die nachfolgend
 
 3. Spielende, die an einem Turnier der STF teilnehmen, akzeptieren die vorliegenden AGB sowie alle weiteren geltenden Reglemente der STF. Die Anmeldung zu einem Turnier gilt als Bestätigung dieser Akzeptanz.
 
-4. Spielende verpflichten sich, pünktlich zu den Spielen zu erscheinen. Bei wiederholtem Nichterscheinen (Recall-Protokoll) können Spielende disqualifiziert werden.
+4. Spielende verpflichten sich zu sportlich fairem Verhalten. Unsportliches Verhalten kann zur Disqualifikation führen.
 
-5. Spielende verpflichten sich zu sportlich fairem Verhalten. Unsportliches Verhalten kann zur Disqualifikation führen.
+5. Turnieranmeldungen erfolgen ausschliesslich über Coral (https://app.tablesoccer.org). Anmeldungen über andere Kanäle werden nicht akzeptiert.
 
-6. Turnieranmeldungen erfolgen ausschliesslich über Coral (https://app.tablesoccer.org). Anmeldungen über andere Kanäle werden nicht akzeptiert.
+6. Eine gültige Lizenz (gemäss den aktuellen Lizenzbestimmungen (https://tablesoccer.org/de/licenses/)) ist Voraussetzung für die Teilnahme an Turnieren mit entsprechendem Lizenzierungserfordernis. Spielende ohne gültige Lizenz können von der Teilnahme ausgeschlossen werden.
 
-7. Eine gültige Lizenz (gemäss den aktuellen Lizenzbestimmungen (https://tablesoccer.org/de/licenses/)) ist Voraussetzung für die Teilnahme an Turnieren mit entsprechendem Lizenzierungserfordernis. Spielende ohne gültige Lizenz können von der Teilnahme ausgeschlossen werden.
+7. Anfallende Turnier- und Lizenzgebühren sind gemäss den aktuellen Lizenzbestimmungen (https://tablesoccer.org/de/licenses/) und der Turnierausschreibung zu entrichten. Mit der Turnieranmeldung verpflichten sich Spielende zur Bezahlung der anfallenden Gebühren.
 
-8. Anfallende Turnier- und Lizenzgebühren sind gemäss den aktuellen Lizenzbestimmungen (https://tablesoccer.org/de/licenses/) und der Turnierausschreibung zu entrichten. Mit der Turnieranmeldung verpflichten sich Spielende zur Bezahlung der anfallenden Gebühren.
+8. Entscheide der Schiedsrichtenden und der Turnierleitung sind zu respektieren und verbindlich. Einsprachen sind gemäss dem geltenden Reglement einzureichen.
 
-9. Entscheide der Schiedsrichtenden und der Turnierleitung sind zu respektieren und verbindlich. Einsprachen sind gemäss dem geltenden Reglement einzureichen.
+9. Die STF bezweckt, die Integrität, Sicherheit und Fairness von sportlichen Wettkämpfen im Tischfussball vor jeder Form von Manipulation und/oder korrupten Aktivitäten zu schützen.
 
-10. Die STF bezweckt, die Integrität, Sicherheit und Fairness von sportlichen Wettkämpfen im Tischfussball vor jeder Form von Manipulation und/oder korrupten Aktivitäten zu schützen.
+10. Alle Turnierbeteiligten sind verpflichtet, sich jeder Form der unlauteren Beeinflussung und Manipulation von Sportwettkämpfen zu enthalten und namentlich die entsprechenden Vorschriften der ITSF (International Table Soccer Federation) sowie des Ethik-Statuts (https://www.swissolympic.ch/athlete-hub/Pers-nlichkeit-und-Ethik/werte-ethik/Ethik-Statut-des-Schweizer-Sports) von Swiss Olympic zu befolgen. Im Übrigen gelten die Bestimmungen der ITSF und des Ethik-Statuts für den Schweizer Sport.
 
-11. Alle Turnierbeteiligten sind verpflichtet, sich jeder Form der unlauteren Beeinflussung und Manipulation von Sportwettkämpfen zu enthalten und namentlich die entsprechenden Vorschriften der ITSF (International Table Soccer Federation) sowie des Ethik-Statuts (https://www.swissolympic.ch/athlete-hub/Pers-nlichkeit-und-Ethik/werte-ethik/Ethik-Statut-des-Schweizer-Sports) von Swiss Olympic zu befolgen. Im Übrigen gelten die Bestimmungen der ITSF und des Ethik-Statuts für den Schweizer Sport.
-
-12. Bei Verstössen gegen diese AGB oder die Reglemente der STF behält sich die STF vor, entsprechende Massnahmen zu ergreifen, einschliesslich des Ausschlusses vom laufenden Turnier sowie zukünftigen Turnieren.
+11. Bei Verstössen gegen diese AGB oder die Reglemente der STF behält sich die STF vor, entsprechende Massnahmen zu ergreifen, einschliesslich des Ausschlusses vom laufenden Turnier sowie zukünftigen Turnieren.
 
 
---- FR ---
-
-CG pour les tournois
+__CG pour les tournois (FR)__
 
 En s'inscrivant à un tournoi de la STF, les joueurs acceptent les conditions générales suivantes pour les tournois.
 
@@ -280,28 +258,24 @@ En s'inscrivant à un tournoi de la STF, les joueurs acceptent les conditions g�
 
 3. Les joueurs participant à un tournoi de la STF acceptent les présentes CG ainsi que tous les autres règlements en vigueur de la STF. L'inscription à un tournoi vaut confirmation de cette acceptation.
 
-4. Les joueurs s'engagent à se présenter ponctuellement à leurs matchs. En cas d'absences répétées (protocole de rappel), les joueurs peuvent être disqualifiés.
+4. Les joueurs s'engagent à adopter un comportement sportif équitable. Un comportement antisportif peut entraîner la disqualification.
 
-5. Les joueurs s'engagent à adopter un comportement sportif équitable. Un comportement antisportif peut entraîner la disqualification.
+5. Les inscriptions aux tournois s'effectuent exclusivement via Coral (https://app.tablesoccer.org). Les inscriptions par d'autres canaux ne sont pas acceptées.
 
-6. Les inscriptions aux tournois s'effectuent exclusivement via Coral (https://app.tablesoccer.org). Les inscriptions par d'autres canaux ne sont pas acceptées.
+6. Une licence valide (conformément aux dispositions de licence (https://tablesoccer.org/fr/licenses/) en vigueur) est une condition préalable à la participation aux tournois soumis à une exigence de licence. Les joueurs sans licence valide peuvent être exclus de la participation.
 
-7. Une licence valide (conformément aux dispositions de licence (https://tablesoccer.org/fr/licenses/) en vigueur) est une condition préalable à la participation aux tournois soumis à une exigence de licence. Les joueurs sans licence valide peuvent être exclus de la participation.
+7. Les frais de tournoi et de licence éventuels doivent être acquittés conformément aux dispositions de licence (https://tablesoccer.org/fr/licenses/) en vigueur et au règlement du tournoi. En s'inscrivant à un tournoi, les joueurs s'engagent à payer les frais applicables.
 
-8. Les frais de tournoi et de licence éventuels doivent être acquittés conformément aux dispositions de licence (https://tablesoccer.org/fr/licenses/) en vigueur et au règlement du tournoi. En s'inscrivant à un tournoi, les joueurs s'engagent à payer les frais applicables.
+8. Les décisions des arbitres et de la direction du tournoi doivent être respectées et sont contraignantes. Les réclamations doivent être déposées conformément au règlement en vigueur.
 
-9. Les décisions des arbitres et de la direction du tournoi doivent être respectées et sont contraignantes. Les réclamations doivent être déposées conformément au règlement en vigueur.
+9. La STF a pour but de protéger l'intégrité, la sécurité et l'équité des compétitions de football de table contre toute forme de manipulation et/ou d'activités corrompues.
 
-10. La STF a pour but de protéger l'intégrité, la sécurité et l'équité des compétitions de football de table contre toute forme de manipulation et/ou d'activités corrompues.
+10. Tous les participants aux tournois sont tenus de s'abstenir de toute forme d'influence déloyale et de manipulation des compétitions sportives et de respecter notamment les dispositions correspondantes de l'ITSF (International Table Soccer Federation) ainsi que du Statut éthique (https://www.swissolympic.ch/fr/athlete-hub/personnalite/valeurs-ethique/Ethik-Statut-des-Schweizer-Sports) de Swiss Olympic. Pour le reste, les dispositions de l'ITSF et du Statut éthique pour le sport suisse s'appliquent.
 
-11. Tous les participants aux tournois sont tenus de s'abstenir de toute forme d'influence déloyale et de manipulation des compétitions sportives et de respecter notamment les dispositions correspondantes de l'ITSF (International Table Soccer Federation) ainsi que du Statut éthique (https://www.swissolympic.ch/fr/athlete-hub/personnalite/valeurs-ethique/Ethik-Statut-des-Schweizer-Sports) de Swiss Olympic. Pour le reste, les dispositions de l'ITSF et du Statut éthique pour le sport suisse s'appliquent.
-
-12. En cas de violation des présentes CG ou des règlements de la STF, celle-ci se réserve le droit de prendre les mesures appropriées, y compris l'exclusion du tournoi en cours ainsi que des tournois futurs.
+11. En cas de violation des présentes CG ou des règlements de la STF, celle-ci se réserve le droit de prendre les mesures appropriées, y compris l'exclusion du tournoi en cours ainsi que des tournois futurs.
 
 
---- IT ---
-
-CG per i tornei
+__CG per i tornei (IT)__
 
 Con l'iscrizione a un torneo della STF, i giocatori accettano le seguenti condizioni generali per i tornei.
 
@@ -311,28 +285,24 @@ Con l'iscrizione a un torneo della STF, i giocatori accettano le seguenti condiz
 
 3. I giocatori che partecipano a un torneo della STF accettano le presenti CG nonché tutti gli altri regolamenti vigenti della STF. L'iscrizione a un torneo vale come conferma di tale accettazione.
 
-4. I giocatori si impegnano a presentarsi puntualmente alle partite. In caso di assenze ripetute (protocollo di richiamo), i giocatori possono essere squalificati.
+4. I giocatori si impegnano a tenere un comportamento sportivamente leale. Un comportamento antisportivo può comportare la squalifica.
 
-5. I giocatori si impegnano a tenere un comportamento sportivamente leale. Un comportamento antisportivo può comportare la squalifica.
+5. Le iscrizioni ai tornei avvengono esclusivamente tramite Coral (https://app.tablesoccer.org). Le iscrizioni tramite altri canali non vengono accettate.
 
-6. Le iscrizioni ai tornei avvengono esclusivamente tramite Coral (https://app.tablesoccer.org). Le iscrizioni tramite altri canali non vengono accettate.
+6. Una licenza valida (conformemente alle disposizioni di licenza (https://tablesoccer.org/it/licenses/) vigenti) è un prerequisito per la partecipazione ai tornei con requisito di licenza. I giocatori senza licenza valida possono essere esclusi dalla partecipazione.
 
-7. Una licenza valida (conformemente alle disposizioni di licenza (https://tablesoccer.org/it/licenses/) vigenti) è un prerequisito per la partecipazione ai tornei con requisito di licenza. I giocatori senza licenza valida possono essere esclusi dalla partecipazione.
+7. Le spese di torneo e di licenza eventualmente dovute devono essere pagate conformemente alle disposizioni di licenza (https://tablesoccer.org/it/licenses/) vigenti e al bando del torneo. Con l'iscrizione al torneo, i giocatori si impegnano a pagare le spese applicabili.
 
-8. Le spese di torneo e di licenza eventualmente dovute devono essere pagate conformemente alle disposizioni di licenza (https://tablesoccer.org/it/licenses/) vigenti e al bando del torneo. Con l'iscrizione al torneo, i giocatori si impegnano a pagare le spese applicabili.
+8. Le decisioni degli arbitri e della direzione del torneo devono essere rispettate e sono vincolanti. I ricorsi devono essere presentati conformemente al regolamento vigente.
 
-9. Le decisioni degli arbitri e della direzione del torneo devono essere rispettate e sono vincolanti. I ricorsi devono essere presentati conformemente al regolamento vigente.
+9. La STF si propone di proteggere l'integrità, la sicurezza e la correttezza delle gare di calciobalilla da qualsiasi forma di manipolazione e/o attività corrotte.
 
-10. La STF si propone di proteggere l'integrità, la sicurezza e la correttezza delle gare di calciobalilla da qualsiasi forma di manipolazione e/o attività corrotte.
+10. Tutti i partecipanti ai tornei sono tenuti ad astenersi da qualsiasi forma di influenza sleale e manipolazione delle gare sportive e, in particolare, a rispettare le disposizioni corrispondenti dell'ITSF (International Table Soccer Federation) nonché dello Statuto etico (https://www.swissolympic.ch/fr/athlete-hub/personnalite/valeurs-ethique/Ethik-Statut-des-Schweizer-Sports) di Swiss Olympic. Per il resto si applicano le disposizioni dell'ITSF e dello Statuto etico per lo sport svizzero.
 
-11. Tutti i partecipanti ai tornei sono tenuti ad astenersi da qualsiasi forma di influenza sleale e manipolazione delle gare sportive e, in particolare, a rispettare le disposizioni corrispondenti dell'ITSF (International Table Soccer Federation) nonché dello Statuto etico (https://www.swissolympic.ch/fr/athlete-hub/personnalite/valeurs-ethique/Ethik-Statut-des-Schweizer-Sports) di Swiss Olympic. Per il resto si applicano le disposizioni dell'ITSF e dello Statuto etico per lo sport svizzero.
-
-12. In caso di violazione delle presenti CG o dei regolamenti della STF, quest'ultima si riserva il diritto di adottare le misure appropriate, inclusa l'esclusione dal torneo in corso nonché dai tornei futuri.
+11. In caso di violazione delle presenti CG o dei regolamenti della STF, quest'ultima si riserva il diritto di adottare le misure appropriate, inclusa l'esclusione dal torneo in corso nonché dai tornei futuri.
 
 
---- EN ---
-
-T&C for Tournaments
+__T&C for Tournaments (EN)__
 
 By registering for an STF tournament, players accept the following General Terms and Conditions for tournaments.
 
@@ -342,21 +312,19 @@ By registering for an STF tournament, players accept the following General Terms
 
 3. Players participating in an STF tournament accept these T&C as well as all other applicable STF regulations. Registration for a tournament constitutes confirmation of this acceptance.
 
-4. Players commit to appearing punctually for their matches. In the event of repeated non-appearance (recall protocol), players may be disqualified.
+4. Players commit to sportingly fair behaviour. Unsportsmanlike conduct may lead to disqualification.
 
-5. Players commit to sportingly fair behaviour. Unsportsmanlike conduct may lead to disqualification.
+5. Tournament registrations are made exclusively via Coral (https://app.tablesoccer.org). Registrations via other channels are not accepted.
 
-6. Tournament registrations are made exclusively via Coral (https://app.tablesoccer.org). Registrations via other channels are not accepted.
+6. A valid licence (in accordance with the current licence regulations (https://tablesoccer.org/en/licenses/)) is a prerequisite for participation in tournaments with a corresponding licensing requirement. Players without a valid licence may be excluded from participation.
 
-7. A valid licence (in accordance with the current licence regulations (https://tablesoccer.org/en/licenses/)) is a prerequisite for participation in tournaments with a corresponding licensing requirement. Players without a valid licence may be excluded from participation.
+7. Any applicable tournament and licence fees must be paid in accordance with the current licence regulations (https://tablesoccer.org/en/licenses/) and the tournament announcement. By registering for a tournament, players commit to paying the applicable fees.
 
-8. Any applicable tournament and licence fees must be paid in accordance with the current licence regulations (https://tablesoccer.org/en/licenses/) and the tournament announcement. By registering for a tournament, players commit to paying the applicable fees.
+8. Decisions of referees and tournament management are to be respected and are binding. Appeals must be submitted in accordance with the applicable regulations.
 
-9. Decisions of referees and tournament management are to be respected and are binding. Appeals must be submitted in accordance with the applicable regulations.
+9. The STF aims to protect the integrity, safety and fairness of table soccer competitions from any form of manipulation and/or corrupt activities.
 
-10. The STF aims to protect the integrity, safety and fairness of table soccer competitions from any form of manipulation and/or corrupt activities.
+10. All tournament participants are obliged to refrain from any form of unfair influence and manipulation of sporting competitions, and in particular to comply with the relevant provisions of the ITSF (International Table Soccer Federation) and the Ethics Statute (https://www.swissolympic.ch/athlete-hub/Pers-nlichkeit-und-Ethik/werte-ethik/Ethik-Statut-des-Schweizer-Sports) of Swiss Olympic. The provisions of the ITSF and the Ethics Statute for Swiss sport apply in all other respects.
 
-11. All tournament participants are obliged to refrain from any form of unfair influence and manipulation of sporting competitions, and in particular to comply with the relevant provisions of the ITSF (International Table Soccer Federation) and the Ethics Statute (https://www.swissolympic.ch/athlete-hub/Pers-nlichkeit-und-Ethik/werte-ethik/Ethik-Statut-des-Schweizer-Sports) of Swiss Olympic. The provisions of the ITSF and the Ethics Statute for Swiss sport apply in all other respects.
-
-12. In the event of violations of these T&C or the STF regulations, the STF reserves the right to take appropriate measures, including exclusion from the current tournament as well as future tournaments.
+11. In the event of violations of these T&C or the STF regulations, the STF reserves the right to take appropriate measures, including exclusion from the current tournament as well as future tournaments.
 ```
