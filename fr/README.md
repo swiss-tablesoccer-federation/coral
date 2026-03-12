@@ -9,3 +9,4 @@
 - [Registre](register/)
 - [Licences](licenses/)
 - [Tournois](tournaments/)
+- [CG](terms/)

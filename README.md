@@ -2,7 +2,7 @@
 
 # Swiss Tablesoccer Federation (STF) – Coral
 
-&nbsp;&nbsp;&nbsp;&nbsp;🇩🇪 [**Deutsch**](#deutsch) &nbsp;|&nbsp; 🇫🇷 [**Français**](#francais) &nbsp;|&nbsp; 🇮🇹 [**Italiano**](#italiano)
+&nbsp;&nbsp;&nbsp;&nbsp;🇩🇪 [**Deutsch**](#deutsch) &nbsp;|&nbsp; 🇫🇷 [**Français**](#francais) &nbsp;|&nbsp; 🇮🇹 [**Italiano**](#italiano) &nbsp;|&nbsp; 🇬🇧 [**English**](#english)
 
 ---
 
@@ -19,11 +19,16 @@
 - [Registre](fr/register/)
 - [Licences](fr/licenses/)
 - [Tournois](fr/tournaments/)
+- [CG](fr/terms/)
 
 ### 🇮🇹 Italiano {#italiano}
 - [Registro](it/register/)
 - [Licenze](it/licenses/)
 - [Tornei](it/tournaments/)
+- [CG](it/terms/)
+
+### 🇬🇧 English {#english}
+- [Terms & Conditions](en/terms/)
 
 ### Links
 
