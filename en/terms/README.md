@@ -74,20 +74,18 @@ By registering for an STF tournament, players accept the following General Terms
 
 3. Players participating in an STF tournament accept these T&C as well as all other applicable STF regulations. Registration for a tournament constitutes confirmation of this acceptance.
 
-4. Players commit to appearing punctually for their matches. In the event of repeated non-appearance (recall protocol), players may be disqualified.
+4. Players commit to sportingly fair behaviour. Unsportsmanlike conduct may lead to disqualification.
 
-5. Players commit to sportingly fair behaviour. Unsportsmanlike conduct may lead to disqualification.
+5. Tournament registrations are made exclusively via [Coral](https://app.tablesoccer.org). Registrations via other channels are not accepted.
 
-6. Tournament registrations are made exclusively via [Coral](https://app.tablesoccer.org). Registrations via other channels are not accepted.
+6. A valid licence (in accordance with the current [licence regulations](../licenses/)) is a prerequisite for participation in tournaments with a corresponding licensing requirement. Players without a valid licence may be excluded from participation.
 
-7. A valid licence (in accordance with the current [licence regulations](../licenses/)) is a prerequisite for participation in tournaments with a corresponding licensing requirement. Players without a valid licence may be excluded from participation.
+7. Any applicable tournament and licence fees must be paid in accordance with the current [licence regulations](../licenses/) and the tournament announcement. By registering for a tournament, players commit to paying the applicable fees.
 
-8. Any applicable tournament and licence fees must be paid in accordance with the current [licence regulations](../licenses/) and the tournament announcement. By registering for a tournament, players commit to paying the applicable fees.
+8. Decisions of referees and tournament management are to be respected and are binding. Appeals must be submitted in accordance with the applicable regulations.
 
-9. Decisions of referees and tournament management are to be respected and are binding. Appeals must be submitted in accordance with the applicable regulations.
+9. The STF aims to protect the integrity, safety and fairness of table soccer competitions from any form of manipulation and/or corrupt activities.
 
-10. The STF aims to protect the integrity, safety and fairness of table soccer competitions from any form of manipulation and/or corrupt activities.
+10. All tournament participants are obliged to refrain from any form of unfair influence and manipulation of sporting competitions, and in particular to comply with the relevant provisions of the ITSF (International Table Soccer Federation) and the [Ethics Statute](https://www.swissolympic.ch/athlete-hub/Pers-nlichkeit-und-Ethik/werte-ethik/Ethik-Statut-des-Schweizer-Sports) of Swiss Olympic. The provisions of the ITSF and the Ethics Statute for Swiss sport apply in all other respects.
 
-11. All tournament participants are obliged to refrain from any form of unfair influence and manipulation of sporting competitions, and in particular to comply with the relevant provisions of the ITSF (International Table Soccer Federation) and the [Ethics Statute](https://www.swissolympic.ch/athlete-hub/Pers-nlichkeit-und-Ethik/werte-ethik/Ethik-Statut-des-Schweizer-Sports) of Swiss Olympic. The provisions of the ITSF and the Ethics Statute for Swiss sport apply in all other respects.
-
-12. In the event of violations of these T&C or the STF regulations, the STF reserves the right to take appropriate measures, including exclusion from the current tournament as well as future tournaments.
+11. In the event of violations of these T&C or the STF regulations, the STF reserves the right to take appropriate measures, including exclusion from the current tournament as well as future tournaments.

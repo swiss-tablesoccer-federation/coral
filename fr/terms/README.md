@@ -74,20 +74,18 @@ En s'inscrivant à un tournoi de la STF, les joueurs acceptent les conditions g�
 
 3. Les joueurs participant à un tournoi de la STF acceptent les présentes CG ainsi que tous les autres règlements en vigueur de la STF. L'inscription à un tournoi vaut confirmation de cette acceptation.
 
-4. Les joueurs s'engagent à se présenter ponctuellement à leurs matchs. En cas d'absences répétées (protocole de rappel), les joueurs peuvent être disqualifiés.
+4. Les joueurs s'engagent à adopter un comportement sportif équitable. Un comportement antisportif peut entraîner la disqualification.
 
-5. Les joueurs s'engagent à adopter un comportement sportif équitable. Un comportement antisportif peut entraîner la disqualification.
+5. Les inscriptions aux tournois s'effectuent exclusivement via [Coral](https://app.tablesoccer.org). Les inscriptions par d'autres canaux ne sont pas acceptées.
 
-6. Les inscriptions aux tournois s'effectuent exclusivement via [Coral](https://app.tablesoccer.org). Les inscriptions par d'autres canaux ne sont pas acceptées.
+6. Une licence valide (conformément aux [dispositions de licence](../licenses/) en vigueur) est une condition préalable à la participation aux tournois soumis à une exigence de licence. Les joueurs sans licence valide peuvent être exclus de la participation.
 
-7. Une licence valide (conformément aux [dispositions de licence](../licenses/) en vigueur) est une condition préalable à la participation aux tournois soumis à une exigence de licence. Les joueurs sans licence valide peuvent être exclus de la participation.
+7. Les frais de tournoi et de licence éventuels doivent être acquittés conformément aux [dispositions de licence](../licenses/) en vigueur et au règlement du tournoi. En s'inscrivant à un tournoi, les joueurs s'engagent à payer les frais applicables.
 
-8. Les frais de tournoi et de licence éventuels doivent être acquittés conformément aux [dispositions de licence](../licenses/) en vigueur et au règlement du tournoi. En s'inscrivant à un tournoi, les joueurs s'engagent à payer les frais applicables.
+8. Les décisions des arbitres et de la direction du tournoi doivent être respectées et sont contraignantes. Les réclamations doivent être déposées conformément au règlement en vigueur.
 
-9. Les décisions des arbitres et de la direction du tournoi doivent être respectées et sont contraignantes. Les réclamations doivent être déposées conformément au règlement en vigueur.
+9. La STF a pour but de protéger l'intégrité, la sécurité et l'équité des compétitions de football de table contre toute forme de manipulation et/ou d'activités corrompues.
 
-10. La STF a pour but de protéger l'intégrité, la sécurité et l'équité des compétitions de football de table contre toute forme de manipulation et/ou d'activités corrompues.
+10. Tous les participants aux tournois sont tenus de s'abstenir de toute forme d'influence déloyale et de manipulation des compétitions sportives et de respecter notamment les dispositions correspondantes de l'ITSF (International Table Soccer Federation) ainsi que du [Statut éthique](https://www.swissolympic.ch/fr/athlete-hub/personnalite/valeurs-ethique/Ethik-Statut-des-Schweizer-Sports) de Swiss Olympic. Pour le reste, les dispositions de l'ITSF et du Statut éthique pour le sport suisse s'appliquent.
 
-11. Tous les participants aux tournois sont tenus de s'abstenir de toute forme d'influence déloyale et de manipulation des compétitions sportives et de respecter notamment les dispositions correspondantes de l'ITSF (International Table Soccer Federation) ainsi que du [Statut éthique](https://www.swissolympic.ch/fr/athlete-hub/personnalite/valeurs-ethique/Ethik-Statut-des-Schweizer-Sports) de Swiss Olympic. Pour le reste, les dispositions de l'ITSF et du Statut éthique pour le sport suisse s'appliquent.
-
-12. En cas de violation des présentes CG ou des règlements de la STF, celle-ci se réserve le droit de prendre les mesures appropriées, y compris l'exclusion du tournoi en cours ainsi que des tournois futurs.
+11. En cas de violation des présentes CG ou des règlements de la STF, celle-ci se réserve le droit de prendre les mesures appropriées, y compris l'exclusion du tournoi en cours ainsi que des tournois futurs.

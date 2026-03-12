@@ -74,20 +74,18 @@ Mit der Anmeldung zu einem Turnier der STF akzeptieren Spielende die nachfolgend
 
 3. Spielende, die an einem Turnier der STF teilnehmen, akzeptieren die vorliegenden AGB sowie alle weiteren geltenden Reglemente der STF. Die Anmeldung zu einem Turnier gilt als Bestätigung dieser Akzeptanz.
 
-4. Spielende verpflichten sich, pünktlich zu den Spielen zu erscheinen. Bei wiederholtem Nichterscheinen (Recall-Protokoll) können Spielende disqualifiziert werden.
+4. Spielende verpflichten sich zu sportlich fairem Verhalten. Unsportliches Verhalten kann zur Disqualifikation führen.
 
-5. Spielende verpflichten sich zu sportlich fairem Verhalten. Unsportliches Verhalten kann zur Disqualifikation führen.
+5. Turnieranmeldungen erfolgen ausschliesslich über [Coral](https://app.tablesoccer.org). Anmeldungen über andere Kanäle werden nicht akzeptiert.
 
-6. Turnieranmeldungen erfolgen ausschliesslich über [Coral](https://app.tablesoccer.org). Anmeldungen über andere Kanäle werden nicht akzeptiert.
+6. Eine gültige Lizenz (gemäss den aktuellen [Lizenzbestimmungen](../licenses/)) ist Voraussetzung für die Teilnahme an Turnieren mit entsprechendem Lizenzierungserfordernis. Spielende ohne gültige Lizenz können von der Teilnahme ausgeschlossen werden.
 
-7. Eine gültige Lizenz (gemäss den aktuellen [Lizenzbestimmungen](../licenses/)) ist Voraussetzung für die Teilnahme an Turnieren mit entsprechendem Lizenzierungserfordernis. Spielende ohne gültige Lizenz können von der Teilnahme ausgeschlossen werden.
+7. Anfallende Turnier- und Lizenzgebühren sind gemäss den aktuellen [Lizenzbestimmungen](../licenses/) und der Turnierausschreibung zu entrichten. Mit der Turnieranmeldung verpflichten sich Spielende zur Bezahlung der anfallenden Gebühren.
 
-8. Anfallende Turnier- und Lizenzgebühren sind gemäss den aktuellen [Lizenzbestimmungen](../licenses/) und der Turnierausschreibung zu entrichten. Mit der Turnieranmeldung verpflichten sich Spielende zur Bezahlung der anfallenden Gebühren.
+8. Entscheide der Schiedsrichtenden und der Turnierleitung sind zu respektieren und verbindlich. Einsprachen sind gemäss dem geltenden Reglement einzureichen.
 
-9. Entscheide der Schiedsrichtenden und der Turnierleitung sind zu respektieren und verbindlich. Einsprachen sind gemäss dem geltenden Reglement einzureichen.
+9. Die STF bezweckt, die Integrität, Sicherheit und Fairness von sportlichen Wettkämpfen im Tischfussball vor jeder Form von Manipulation und/oder korrupten Aktivitäten zu schützen.
 
-10. Die STF bezweckt, die Integrität, Sicherheit und Fairness von sportlichen Wettkämpfen im Tischfussball vor jeder Form von Manipulation und/oder korrupten Aktivitäten zu schützen.
+10. Alle Turnierbeteiligten sind verpflichtet, sich jeder Form der unlauteren Beeinflussung und Manipulation von Sportwettkämpfen zu enthalten und namentlich die entsprechenden Vorschriften der ITSF (International Table Soccer Federation) sowie des [Ethik-Statuts](https://www.swissolympic.ch/athlete-hub/Pers-nlichkeit-und-Ethik/werte-ethik/Ethik-Statut-des-Schweizer-Sports) von Swiss Olympic zu befolgen. Im Übrigen gelten die Bestimmungen der ITSF und des Ethik-Statuts für den Schweizer Sport.
 
-11. Alle Turnierbeteiligten sind verpflichtet, sich jeder Form der unlauteren Beeinflussung und Manipulation von Sportwettkämpfen zu enthalten und namentlich die entsprechenden Vorschriften der ITSF (International Table Soccer Federation) sowie des [Ethik-Statuts](https://www.swissolympic.ch/athlete-hub/Pers-nlichkeit-und-Ethik/werte-ethik/Ethik-Statut-des-Schweizer-Sports) von Swiss Olympic zu befolgen. Im Übrigen gelten die Bestimmungen der ITSF und des Ethik-Statuts für den Schweizer Sport.
-
-12. Bei Verstössen gegen diese AGB oder die Reglemente der STF behält sich die STF vor, entsprechende Massnahmen zu ergreifen, einschliesslich des Ausschlusses vom laufenden Turnier sowie zukünftigen Turnieren.
+11. Bei Verstössen gegen diese AGB oder die Reglemente der STF behält sich die STF vor, entsprechende Massnahmen zu ergreifen, einschliesslich des Ausschlusses vom laufenden Turnier sowie zukünftigen Turnieren.

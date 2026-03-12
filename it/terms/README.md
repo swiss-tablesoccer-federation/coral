@@ -74,20 +74,18 @@ Con l'iscrizione a un torneo della STF, i giocatori accettano le seguenti condiz
 
 3. I giocatori che partecipano a un torneo della STF accettano le presenti CG nonché tutti gli altri regolamenti vigenti della STF. L'iscrizione a un torneo vale come conferma di tale accettazione.
 
-4. I giocatori si impegnano a presentarsi puntualmente alle partite. In caso di assenze ripetute (protocollo di richiamo), i giocatori possono essere squalificati.
+4. I giocatori si impegnano a tenere un comportamento sportivamente leale. Un comportamento antisportivo può comportare la squalifica.
 
-5. I giocatori si impegnano a tenere un comportamento sportivamente leale. Un comportamento antisportivo può comportare la squalifica.
+5. Le iscrizioni ai tornei avvengono esclusivamente tramite [Coral](https://app.tablesoccer.org). Le iscrizioni tramite altri canali non vengono accettate.
 
-6. Le iscrizioni ai tornei avvengono esclusivamente tramite [Coral](https://app.tablesoccer.org). Le iscrizioni tramite altri canali non vengono accettate.
+6. Una licenza valida (conformemente alle [disposizioni di licenza](../licenses/) vigenti) è un prerequisito per la partecipazione ai tornei con requisito di licenza. I giocatori senza licenza valida possono essere esclusi dalla partecipazione.
 
-7. Una licenza valida (conformemente alle [disposizioni di licenza](../licenses/) vigenti) è un prerequisito per la partecipazione ai tornei con requisito di licenza. I giocatori senza licenza valida possono essere esclusi dalla partecipazione.
+7. Le spese di torneo e di licenza eventualmente dovute devono essere pagate conformemente alle [disposizioni di licenza](../licenses/) vigenti e al bando del torneo. Con l'iscrizione al torneo, i giocatori si impegnano a pagare le spese applicabili.
 
-8. Le spese di torneo e di licenza eventualmente dovute devono essere pagate conformemente alle [disposizioni di licenza](../licenses/) vigenti e al bando del torneo. Con l'iscrizione al torneo, i giocatori si impegnano a pagare le spese applicabili.
+8. Le decisioni degli arbitri e della direzione del torneo devono essere rispettate e sono vincolanti. I ricorsi devono essere presentati conformemente al regolamento vigente.
 
-9. Le decisioni degli arbitri e della direzione del torneo devono essere rispettate e sono vincolanti. I ricorsi devono essere presentati conformemente al regolamento vigente.
+9. La STF si propone di proteggere l'integrità, la sicurezza e la correttezza delle gare di calciobalilla da qualsiasi forma di manipolazione e/o attività corrotte.
 
-10. La STF si propone di proteggere l'integrità, la sicurezza e la correttezza delle gare di calciobalilla da qualsiasi forma di manipolazione e/o attività corrotte.
+10. Tutti i partecipanti ai tornei sono tenuti ad astenersi da qualsiasi forma di influenza sleale e manipolazione delle gare sportive e, in particolare, a rispettare le disposizioni corrispondenti dell'ITSF (International Table Soccer Federation) nonché dello [Statuto etico](https://www.swissolympic.ch/fr/athlete-hub/personnalite/valeurs-ethique/Ethik-Statut-des-Schweizer-Sports) di Swiss Olympic. Per il resto si applicano le disposizioni dell'ITSF e dello Statuto etico per lo sport svizzero.
 
-11. Tutti i partecipanti ai tornei sono tenuti ad astenersi da qualsiasi forma di influenza sleale e manipolazione delle gare sportive e, in particolare, a rispettare le disposizioni corrispondenti dell'ITSF (International Table Soccer Federation) nonché dello [Statuto etico](https://www.swissolympic.ch/fr/athlete-hub/personnalite/valeurs-ethique/Ethik-Statut-des-Schweizer-Sports) di Swiss Olympic. Per il resto si applicano le disposizioni dell'ITSF e dello Statuto etico per lo sport svizzero.
-
-12. In caso di violazione delle presenti CG o dei regolamenti della STF, quest'ultima si riserva il diritto di adottare le misure appropriate, inclusa l'esclusione dal torneo in corso nonché dai tornei futuri.
+11. In caso di violazione delle presenti CG o dei regolamenti della STF, quest'ultima si riserva il diritto di adottare le misure appropriate, inclusa l'esclusione dal torneo in corso nonché dai tornei futuri.
