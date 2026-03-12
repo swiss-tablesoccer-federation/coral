@@ -30,7 +30,11 @@ The following General Terms and Conditions govern the rights and obligations of 
 
 6. Member associations are obliged to inform their members about the applicable rules and obligations and to ensure compliance.
 
-7. In the event of violations of these T&C or the STF regulations, the STF reserves the right to take appropriate measures in accordance with the applicable statutes and regulations, including withdrawal of membership.
+7. The STF aims to protect the integrity, safety and fairness of table soccer competitions from any form of manipulation and/or corrupt activities.
+
+8. Member associations and their members are obliged to refrain from any form of unfair influence and manipulation of sporting competitions, and in particular to comply with the relevant provisions of the ITSF (International Table Soccer Federation) and the [Ethics Statute](https://www.swissolympic.ch/athlete-hub/Pers-nlichkeit-und-Ethik/werte-ethik/Ethik-Statut-des-Schweizer-Sports) of Swiss Olympic. The provisions of the ITSF and the Ethics Statute for Swiss sport apply in all other respects.
+
+9. In the event of violations of these T&C or the STF regulations, the STF reserves the right to take appropriate measures in accordance with the applicable statutes and regulations, including withdrawal of membership.
 
 ---
 
@@ -52,7 +56,11 @@ By registering in [Coral](https://app.tablesoccer.org) and participating in STF 
 
 7. By applying for a licence in [Coral](https://app.tablesoccer.org), players confirm that they have read and accepted these T&C.
 
-8. In the event of violations of these T&C or the STF regulations, the STF reserves the right to take appropriate measures, including temporary or permanent exclusion from tournament operations.
+8. The STF aims to protect the integrity, safety and fairness of table soccer competitions from any form of manipulation and/or corrupt activities.
+
+9. Players are obliged to refrain from any form of unfair influence and manipulation of sporting competitions, and in particular to comply with the relevant provisions of the ITSF (International Table Soccer Federation) and the [Ethics Statute](https://www.swissolympic.ch/athlete-hub/Pers-nlichkeit-und-Ethik/werte-ethik/Ethik-Statut-des-Schweizer-Sports) of Swiss Olympic. The provisions of the ITSF and the Ethics Statute for Swiss sport apply in all other respects.
+
+10. In the event of violations of these T&C or the STF regulations, the STF reserves the right to take appropriate measures, including temporary or permanent exclusion from tournament operations.
 
 ---
 
@@ -78,4 +86,8 @@ By registering for an STF tournament, players accept the following General Terms
 
 9. Decisions of referees and tournament management are to be respected and are binding. Appeals must be submitted in accordance with the applicable regulations.
 
-10. In the event of violations of these T&C or the STF regulations, the STF reserves the right to take appropriate measures, including exclusion from the current tournament as well as future tournaments.
+10. The STF aims to protect the integrity, safety and fairness of table soccer competitions from any form of manipulation and/or corrupt activities.
+
+11. All tournament participants are obliged to refrain from any form of unfair influence and manipulation of sporting competitions, and in particular to comply with the relevant provisions of the ITSF (International Table Soccer Federation) and the [Ethics Statute](https://www.swissolympic.ch/athlete-hub/Pers-nlichkeit-und-Ethik/werte-ethik/Ethik-Statut-des-Schweizer-Sports) of Swiss Olympic. The provisions of the ITSF and the Ethics Statute for Swiss sport apply in all other respects.
+
+12. In the event of violations of these T&C or the STF regulations, the STF reserves the right to take appropriate measures, including exclusion from the current tournament as well as future tournaments.

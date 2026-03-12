@@ -30,7 +30,11 @@ Les conditions générales suivantes régissent les droits et obligations des as
 
 6. Les associations membres sont tenues d'informer leurs membres des règles et obligations en vigueur et d'en assurer le respect.
 
-7. En cas de violation des présentes CG ou des règlements de la STF, celle-ci se réserve le droit de prendre les mesures appropriées conformément aux statuts et règlements en vigueur, y compris le retrait de la qualité de membre.
+7. La STF a pour but de protéger l'intégrité, la sécurité et l'équité des compétitions de football de table contre toute forme de manipulation et/ou d'activités corrompues.
+
+8. Les associations membres et leurs membres sont tenus de s'abstenir de toute forme d'influence déloyale et de manipulation des compétitions sportives et de respecter notamment les dispositions correspondantes de l'ITSF (International Table Soccer Federation) ainsi que du [Statut éthique](https://www.swissolympic.ch/fr/athlete-hub/personnalite/valeurs-ethique/Ethik-Statut-des-Schweizer-Sports) de Swiss Olympic. Pour le reste, les dispositions de l'ITSF et du Statut éthique pour le sport suisse s'appliquent.
+
+9. En cas de violation des présentes CG ou des règlements de la STF, celle-ci se réserve le droit de prendre les mesures appropriées conformément aux statuts et règlements en vigueur, y compris le retrait de la qualité de membre.
 
 ---
 
@@ -52,7 +56,11 @@ En s'inscrivant dans [Coral](https://app.tablesoccer.org) et en participant aux 
 
 7. En demandant une licence dans [Coral](https://app.tablesoccer.org), les joueurs confirment avoir lu et accepté les présentes CG.
 
-8. En cas de violation des présentes CG ou des règlements de la STF, celle-ci se réserve le droit de prendre les mesures appropriées, y compris l'exclusion temporaire ou permanente du circuit des tournois.
+8. La STF a pour but de protéger l'intégrité, la sécurité et l'équité des compétitions de football de table contre toute forme de manipulation et/ou d'activités corrompues.
+
+9. Les joueurs sont tenus de s'abstenir de toute forme d'influence déloyale et de manipulation des compétitions sportives et de respecter notamment les dispositions correspondantes de l'ITSF (International Table Soccer Federation) ainsi que du [Statut éthique](https://www.swissolympic.ch/fr/athlete-hub/personnalite/valeurs-ethique/Ethik-Statut-des-Schweizer-Sports) de Swiss Olympic. Pour le reste, les dispositions de l'ITSF et du Statut éthique pour le sport suisse s'appliquent.
+
+10. En cas de violation des présentes CG ou des règlements de la STF, celle-ci se réserve le droit de prendre les mesures appropriées, y compris l'exclusion temporaire ou permanente du circuit des tournois.
 
 ---
 
@@ -78,4 +86,8 @@ En s'inscrivant à un tournoi de la STF, les joueurs acceptent les conditions g�
 
 9. Les décisions des arbitres et de la direction du tournoi doivent être respectées et sont contraignantes. Les réclamations doivent être déposées conformément au règlement en vigueur.
 
-10. En cas de violation des présentes CG ou des règlements de la STF, celle-ci se réserve le droit de prendre les mesures appropriées, y compris l'exclusion du tournoi en cours ainsi que des tournois futurs.
+10. La STF a pour but de protéger l'intégrité, la sécurité et l'équité des compétitions de football de table contre toute forme de manipulation et/ou d'activités corrompues.
+
+11. Tous les participants aux tournois sont tenus de s'abstenir de toute forme d'influence déloyale et de manipulation des compétitions sportives et de respecter notamment les dispositions correspondantes de l'ITSF (International Table Soccer Federation) ainsi que du [Statut éthique](https://www.swissolympic.ch/fr/athlete-hub/personnalite/valeurs-ethique/Ethik-Statut-des-Schweizer-Sports) de Swiss Olympic. Pour le reste, les dispositions de l'ITSF et du Statut éthique pour le sport suisse s'appliquent.
+
+12. En cas de violation des présentes CG ou des règlements de la STF, celle-ci se réserve le droit de prendre les mesures appropriées, y compris l'exclusion du tournoi en cours ainsi que des tournois futurs.

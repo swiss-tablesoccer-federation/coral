@@ -30,7 +30,11 @@ Die nachfolgenden Allgemeinen Geschäftsbedingungen regeln die Rechte und Pflich
 
 6. Mitgliederverbände sind verpflichtet, ihre Mitglieder über die geltenden Regeln und Pflichten zu informieren und deren Einhaltung sicherzustellen.
 
-7. Bei Verstössen gegen diese AGB oder die Reglemente der STF behält sich die STF vor, entsprechende Massnahmen gemäss den geltenden Statuten und Reglementen zu ergreifen, einschliesslich des Entzugs der Mitgliedschaft.
+7. Die STF bezweckt, die Integrität, Sicherheit und Fairness von sportlichen Wettkämpfen im Tischfussball vor jeder Form von Manipulation und/oder korrupten Aktivitäten zu schützen.
+
+8. Die Mitgliederverbände und ihre Mitglieder sind verpflichtet, sich jeder Form der unlauteren Beeinflussung und Manipulation von Sportwettkämpfen zu enthalten und namentlich die entsprechenden Vorschriften der ITSF (International Table Soccer Federation) sowie des [Ethik-Statuts](https://www.swissolympic.ch/athlete-hub/Pers-nlichkeit-und-Ethik/werte-ethik/Ethik-Statut-des-Schweizer-Sports) von Swiss Olympic zu befolgen. Im Übrigen gelten die Bestimmungen der ITSF und des Ethik-Statuts für den Schweizer Sport.
+
+9. Bei Verstössen gegen diese AGB oder die Reglemente der STF behält sich die STF vor, entsprechende Massnahmen gemäss den geltenden Statuten und Reglementen zu ergreifen, einschliesslich des Entzugs der Mitgliedschaft.
 
 ---
 
@@ -52,7 +56,11 @@ Mit der Registrierung in [Coral](https://app.tablesoccer.org) und der Teilnahme 
 
 7. Mit der Beantragung einer Lizenz in [Coral](https://app.tablesoccer.org) bestätigen Spielende, die vorliegenden AGB gelesen und akzeptiert zu haben.
 
-8. Bei Verstössen gegen diese AGB oder die Reglemente der STF behält sich die STF vor, entsprechende Massnahmen zu ergreifen, einschliesslich des vorübergehenden oder dauerhaften Ausschlusses vom Turnierbetrieb.
+8. Die STF bezweckt, die Integrität, Sicherheit und Fairness von sportlichen Wettkämpfen im Tischfussball vor jeder Form von Manipulation und/oder korrupten Aktivitäten zu schützen.
+
+9. Spielende sind verpflichtet, sich jeder Form der unlauteren Beeinflussung und Manipulation von Sportwettkämpfen zu enthalten und namentlich die entsprechenden Vorschriften der ITSF (International Table Soccer Federation) sowie des [Ethik-Statuts](https://www.swissolympic.ch/athlete-hub/Pers-nlichkeit-und-Ethik/werte-ethik/Ethik-Statut-des-Schweizer-Sports) von Swiss Olympic zu befolgen. Im Übrigen gelten die Bestimmungen der ITSF und des Ethik-Statuts für den Schweizer Sport.
+
+10. Bei Verstössen gegen diese AGB oder die Reglemente der STF behält sich die STF vor, entsprechende Massnahmen zu ergreifen, einschliesslich des vorübergehenden oder dauerhaften Ausschlusses vom Turnierbetrieb.
 
 ---
 
@@ -78,4 +86,8 @@ Mit der Anmeldung zu einem Turnier der STF akzeptieren Spielende die nachfolgend
 
 9. Entscheide der Schiedsrichtenden und der Turnierleitung sind zu respektieren und verbindlich. Einsprachen sind gemäss dem geltenden Reglement einzureichen.
 
-10. Bei Verstössen gegen diese AGB oder die Reglemente der STF behält sich die STF vor, entsprechende Massnahmen zu ergreifen, einschliesslich des Ausschlusses vom laufenden Turnier sowie zukünftigen Turnieren.
+10. Die STF bezweckt, die Integrität, Sicherheit und Fairness von sportlichen Wettkämpfen im Tischfussball vor jeder Form von Manipulation und/oder korrupten Aktivitäten zu schützen.
+
+11. Alle Turnierbeteiligten sind verpflichtet, sich jeder Form der unlauteren Beeinflussung und Manipulation von Sportwettkämpfen zu enthalten und namentlich die entsprechenden Vorschriften der ITSF (International Table Soccer Federation) sowie des [Ethik-Statuts](https://www.swissolympic.ch/athlete-hub/Pers-nlichkeit-und-Ethik/werte-ethik/Ethik-Statut-des-Schweizer-Sports) von Swiss Olympic zu befolgen. Im Übrigen gelten die Bestimmungen der ITSF und des Ethik-Statuts für den Schweizer Sport.
+
+12. Bei Verstössen gegen diese AGB oder die Reglemente der STF behält sich die STF vor, entsprechende Massnahmen zu ergreifen, einschliesslich des Ausschlusses vom laufenden Turnier sowie zukünftigen Turnieren.

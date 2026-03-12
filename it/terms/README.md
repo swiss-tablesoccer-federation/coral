@@ -30,7 +30,11 @@ Le seguenti condizioni generali disciplinano i diritti e gli obblighi delle asso
 
 6. Le associazioni membri sono tenute a informare i propri membri delle regole e degli obblighi vigenti e a garantirne il rispetto.
 
-7. In caso di violazione delle presenti CG o dei regolamenti della STF, quest'ultima si riserva il diritto di adottare le misure appropriate conformemente agli statuti e ai regolamenti vigenti, inclusa la revoca della qualità di membro.
+7. La STF si propone di proteggere l'integrità, la sicurezza e la correttezza delle gare di calciobalilla da qualsiasi forma di manipolazione e/o attività corrotte.
+
+8. Le associazioni membri e i loro membri sono tenuti ad astenersi da qualsiasi forma di influenza sleale e manipolazione delle gare sportive e, in particolare, a rispettare le disposizioni corrispondenti dell'ITSF (International Table Soccer Federation) nonché dello [Statuto etico](https://www.swissolympic.ch/fr/athlete-hub/personnalite/valeurs-ethique/Ethik-Statut-des-Schweizer-Sports) di Swiss Olympic. Per il resto si applicano le disposizioni dell'ITSF e dello Statuto etico per lo sport svizzero.
+
+9. In caso di violazione delle presenti CG o dei regolamenti della STF, quest'ultima si riserva il diritto di adottare le misure appropriate conformemente agli statuti e ai regolamenti vigenti, inclusa la revoca della qualità di membro.
 
 ---
 
@@ -52,7 +56,11 @@ Con la registrazione in [Coral](https://app.tablesoccer.org) e la partecipazione
 
 7. Richiedendo una licenza in [Coral](https://app.tablesoccer.org), i giocatori confermano di aver letto e accettato le presenti CG.
 
-8. In caso di violazione delle presenti CG o dei regolamenti della STF, quest'ultima si riserva il diritto di adottare le misure appropriate, inclusa l'esclusione temporanea o permanente dal circuito dei tornei.
+8. La STF si propone di proteggere l'integrità, la sicurezza e la correttezza delle gare di calciobalilla da qualsiasi forma di manipolazione e/o attività corrotte.
+
+9. I giocatori sono tenuti ad astenersi da qualsiasi forma di influenza sleale e manipolazione delle gare sportive e, in particolare, a rispettare le disposizioni corrispondenti dell'ITSF (International Table Soccer Federation) nonché dello [Statuto etico](https://www.swissolympic.ch/fr/athlete-hub/personnalite/valeurs-ethique/Ethik-Statut-des-Schweizer-Sports) di Swiss Olympic. Per il resto si applicano le disposizioni dell'ITSF e dello Statuto etico per lo sport svizzero.
+
+10. In caso di violazione delle presenti CG o dei regolamenti della STF, quest'ultima si riserva il diritto di adottare le misure appropriate, inclusa l'esclusione temporanea o permanente dal circuito dei tornei.
 
 ---
 
@@ -78,4 +86,8 @@ Con l'iscrizione a un torneo della STF, i giocatori accettano le seguenti condiz
 
 9. Le decisioni degli arbitri e della direzione del torneo devono essere rispettate e sono vincolanti. I ricorsi devono essere presentati conformemente al regolamento vigente.
 
-10. In caso di violazione delle presenti CG o dei regolamenti della STF, quest'ultima si riserva il diritto di adottare le misure appropriate, inclusa l'esclusione dal torneo in corso nonché dai tornei futuri.
+10. La STF si propone di proteggere l'integrità, la sicurezza e la correttezza delle gare di calciobalilla da qualsiasi forma di manipolazione e/o attività corrotte.
+
+11. Tutti i partecipanti ai tornei sono tenuti ad astenersi da qualsiasi forma di influenza sleale e manipolazione delle gare sportive e, in particolare, a rispettare le disposizioni corrispondenti dell'ITSF (International Table Soccer Federation) nonché dello [Statuto etico](https://www.swissolympic.ch/fr/athlete-hub/personnalite/valeurs-ethique/Ethik-Statut-des-Schweizer-Sports) di Swiss Olympic. Per il resto si applicano le disposizioni dell'ITSF e dello Statuto etico per lo sport svizzero.
+
+12. In caso di violazione delle presenti CG o dei regolamenti della STF, quest'ultima si riserva il diritto di adottare le misure appropriate, inclusa l'esclusione dal torneo in corso nonché dai tornei futuri.
