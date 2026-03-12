@@ -9,3 +9,4 @@
 - [Register](register/)
 - [Lizenzen](licenses/)
 - [Turniere](tournaments/)
+- [AGB](terms/)

@@ -13,6 +13,7 @@
 - [Lizenzen](de/licenses/)
 - [Turniere](de/tournaments/)
 - [Clubs](de/club/)
+- [AGB](de/terms/)
 
 ### 🇫🇷 Français {#francais}
 - [Registre](fr/register/)
