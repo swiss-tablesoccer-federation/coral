@@ -18,13 +18,13 @@
 
 Die nachfolgenden Allgemeinen Geschäftsbedingungen regeln die Rechte und Pflichten der Mitgliederverbände gegenüber der Swiss Tablesoccer Federation (STF).
 
-1. Als Mitglied von Swiss Olympic untersteht die STF der Ethik Charta, dem Ethik-Statut und dem Doping-Statut von Swiss Olympic sowie den weiteren präzisierenden Dokumenten.
+1. Als Mitglied von Swiss Olympic untersteht die STF der [Ethik Charta](https://www.swissolympic.ch/athlete-hub/Pers-nlichkeit-und-Ethik/werte-ethik/ethik-charta), dem [Ethik-Statut](https://www.swissolympic.ch/athlete-hub/Pers-nlichkeit-und-Ethik/werte-ethik/Ethik-Statut-des-Schweizer-Sports) und dem Doping-Statut von Swiss Olympic sowie den weiteren präzisierenden Dokumenten.
 
-2. Die Ethik-Charta, das Ethik-Statut und das Doping-Statut sowie die weiteren präzisierenden Dokumente sind für die STF selbst, ihre Mitarbeitenden, Gremien-Mitglieder, Mitglieder, Unterorganisationen (z.B. Teil-, Regional- oder Kantonalverbände, Sektionen, Vereine) wie auch für deren jeweilige Organe, Mitglieder, Mitarbeitenden, Athleten, Coaches, Betreuer, Ärzte und Funktionäre verbindlich.
+2. Die [Ethik-Charta](https://www.swissolympic.ch/athlete-hub/Pers-nlichkeit-und-Ethik/werte-ethik/ethik-charta), das [Ethik-Statut](https://www.swissolympic.ch/athlete-hub/Pers-nlichkeit-und-Ethik/werte-ethik/Ethik-Statut-des-Schweizer-Sports) und das Doping-Statut sowie die weiteren präzisierenden Dokumente sind für die STF selbst, ihre Mitarbeitenden, Gremien-Mitglieder, Mitglieder, Unterorganisationen (z.B. Teil-, Regional- oder Kantonalverbände, Sektionen, Vereine) wie auch für deren jeweilige Organe, Mitglieder, Mitarbeitenden, Athleten, Coaches, Betreuer, Ärzte und Funktionäre verbindlich.
 
-3. Die STF setzt sich für einen gesunden, respektvollen, fairen und erfolgreichen Sport ein. Sie lebt diese Werte vor, indem sie – sowie ihre Organe und Mitglieder – dem Gegenüber mit Respekt begegnen, transparent handeln und kommunizieren. Die STF und ihre direkten und indirekten Mitglieder anerkennen und befolgen zu diesem Zweck die Ethik-Charta, das Ethik-Statut des Schweizer Sports und das Doping-Statut von Swiss Olympic sowie die weiteren präzisierenden Dokumente. Der Sportverband verbreitet diese Prinzipien in seinem Wirkungsbereich.
+3. Die STF setzt sich für einen gesunden, respektvollen, fairen und erfolgreichen Sport ein. Sie lebt diese Werte vor, indem sie – sowie ihre Organe und Mitglieder – dem Gegenüber mit Respekt begegnen, transparent handeln und kommunizieren. Die STF und ihre direkten und indirekten Mitglieder anerkennen und befolgen zu diesem Zweck die [Ethik-Charta](https://www.swissolympic.ch/athlete-hub/Pers-nlichkeit-und-Ethik/werte-ethik/ethik-charta), das [Ethik-Statut des Schweizer Sports](https://www.swissolympic.ch/athlete-hub/Pers-nlichkeit-und-Ethik/werte-ethik/Ethik-Statut-des-Schweizer-Sports) und das Doping-Statut von Swiss Olympic sowie die weiteren präzisierenden Dokumente. Der Sportverband verbreitet diese Prinzipien in seinem Wirkungsbereich.
 
-4. Als Mitglied der STF unterstehen Vereine und ihre Mitglieder der Ethik-Charta, dem Ethik-Statut und dem Doping-Statut von Swiss Olympic sowie den weiteren präzisierenden Dokumenten.
+4. Als Mitglied der STF unterstehen Vereine und ihre Mitglieder der [Ethik-Charta](https://www.swissolympic.ch/athlete-hub/Pers-nlichkeit-und-Ethik/werte-ethik/ethik-charta), dem [Ethik-Statut](https://www.swissolympic.ch/athlete-hub/Pers-nlichkeit-und-Ethik/werte-ethik/Ethik-Statut-des-Schweizer-Sports) und dem Doping-Statut von Swiss Olympic sowie den weiteren präzisierenden Dokumenten.
 
 5. Mitgliederverbände verpflichten sich, die Reglemente und Statuten der STF einzuhalten und aktiv zu deren Umsetzung beizutragen.
 
@@ -38,11 +38,11 @@ Die nachfolgenden Allgemeinen Geschäftsbedingungen regeln die Rechte und Pflich
 
 Mit der Registrierung in [Coral](https://app.tablesoccer.org) und der Teilnahme an Turnieren der STF akzeptieren Spielende die nachfolgenden Allgemeinen Geschäftsbedingungen.
 
-1. Als Mitglied von Swiss Olympic untersteht die STF der Ethik Charta, dem Ethik-Statut und dem Doping-Statut von Swiss Olympic sowie den weiteren präzisierenden Dokumenten.
+1. Als Mitglied von Swiss Olympic untersteht die STF der [Ethik Charta](https://www.swissolympic.ch/athlete-hub/Pers-nlichkeit-und-Ethik/werte-ethik/ethik-charta), dem [Ethik-Statut](https://www.swissolympic.ch/athlete-hub/Pers-nlichkeit-und-Ethik/werte-ethik/Ethik-Statut-des-Schweizer-Sports) und dem Doping-Statut von Swiss Olympic sowie den weiteren präzisierenden Dokumenten.
 
-2. Die Ethik-Charta, das Ethik-Statut und das Doping-Statut sowie die weiteren präzisierenden Dokumente sind für die STF selbst, ihre Mitarbeitenden, Gremien-Mitglieder, Mitglieder, Unterorganisationen (z.B. Teil-, Regional- oder Kantonalverbände, Sektionen, Vereine) wie auch für deren jeweilige Organe, Mitglieder, Mitarbeitenden, Athleten, Coaches, Betreuer, Ärzte und Funktionäre verbindlich.
+2. Die [Ethik-Charta](https://www.swissolympic.ch/athlete-hub/Pers-nlichkeit-und-Ethik/werte-ethik/ethik-charta), das [Ethik-Statut](https://www.swissolympic.ch/athlete-hub/Pers-nlichkeit-und-Ethik/werte-ethik/Ethik-Statut-des-Schweizer-Sports) und das Doping-Statut sowie die weiteren präzisierenden Dokumente sind für die STF selbst, ihre Mitarbeitenden, Gremien-Mitglieder, Mitglieder, Unterorganisationen (z.B. Teil-, Regional- oder Kantonalverbände, Sektionen, Vereine) wie auch für deren jeweilige Organe, Mitglieder, Mitarbeitenden, Athleten, Coaches, Betreuer, Ärzte und Funktionäre verbindlich.
 
-3. Die STF setzt sich für einen gesunden, respektvollen, fairen und erfolgreichen Sport ein. Sie lebt diese Werte vor, indem sie – sowie ihre Organe und Mitglieder – dem Gegenüber mit Respekt begegnen, transparent handeln und kommunizieren. Die STF und ihre direkten und indirekten Mitglieder anerkennen und befolgen zu diesem Zweck die Ethik-Charta, das Ethik-Statut des Schweizer Sports und das Doping-Statut von Swiss Olympic sowie die weiteren präzisierenden Dokumente. Der Sportverband verbreitet diese Prinzipien in seinem Wirkungsbereich.
+3. Die STF setzt sich für einen gesunden, respektvollen, fairen und erfolgreichen Sport ein. Sie lebt diese Werte vor, indem sie – sowie ihre Organe und Mitglieder – dem Gegenüber mit Respekt begegnen, transparent handeln und kommunizieren. Die STF und ihre direkten und indirekten Mitglieder anerkennen und befolgen zu diesem Zweck die [Ethik-Charta](https://www.swissolympic.ch/athlete-hub/Pers-nlichkeit-und-Ethik/werte-ethik/ethik-charta), das [Ethik-Statut des Schweizer Sports](https://www.swissolympic.ch/athlete-hub/Pers-nlichkeit-und-Ethik/werte-ethik/Ethik-Statut-des-Schweizer-Sports) und das Doping-Statut von Swiss Olympic sowie die weiteren präzisierenden Dokumente. Der Sportverband verbreitet diese Prinzipien in seinem Wirkungsbereich.
 
 4. Spielende anerkennen und akzeptieren mit der Lizenzierung die Reglemente, Statuten und Entscheidungen der STF sowie der ITSF (International Table Soccer Federation) als verbindlich.
 
@@ -60,9 +60,9 @@ Mit der Registrierung in [Coral](https://app.tablesoccer.org) und der Teilnahme 
 
 Mit der Anmeldung zu einem Turnier der STF akzeptieren Spielende die nachfolgenden Allgemeinen Geschäftsbedingungen für Turniere.
 
-1. Als Mitglied von Swiss Olympic untersteht die STF der Ethik Charta, dem Ethik-Statut und dem Doping-Statut von Swiss Olympic sowie den weiteren präzisierenden Dokumenten. Diese Bestimmungen gelten für alle Beteiligten an STF-Turnieren.
+1. Als Mitglied von Swiss Olympic untersteht die STF der [Ethik Charta](https://www.swissolympic.ch/athlete-hub/Pers-nlichkeit-und-Ethik/werte-ethik/ethik-charta), dem [Ethik-Statut](https://www.swissolympic.ch/athlete-hub/Pers-nlichkeit-und-Ethik/werte-ethik/Ethik-Statut-des-Schweizer-Sports) und dem Doping-Statut von Swiss Olympic sowie den weiteren präzisierenden Dokumenten. Diese Bestimmungen gelten für alle Beteiligten an STF-Turnieren.
 
-2. Die Ethik-Charta, das Ethik-Statut und das Doping-Statut sowie die weiteren präzisierenden Dokumente sind für alle Turnierteilnehmenden, Turnierorganisatoren, Schiedsrichtende und sonstige Funktionäre verbindlich.
+2. Die [Ethik-Charta](https://www.swissolympic.ch/athlete-hub/Pers-nlichkeit-und-Ethik/werte-ethik/ethik-charta), das [Ethik-Statut](https://www.swissolympic.ch/athlete-hub/Pers-nlichkeit-und-Ethik/werte-ethik/Ethik-Statut-des-Schweizer-Sports) und das Doping-Statut sowie die weiteren präzisierenden Dokumente sind für alle Turnierteilnehmenden, Turnierorganisatoren, Schiedsrichtende und sonstige Funktionäre verbindlich.
 
 3. Spielende, die an einem Turnier der STF teilnehmen, akzeptieren die vorliegenden AGB sowie alle weiteren geltenden Reglemente der STF. Die Anmeldung zu einem Turnier gilt als Bestätigung dieser Akzeptanz.
 
